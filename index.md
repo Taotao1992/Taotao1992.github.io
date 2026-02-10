@@ -70,7 +70,7 @@ Before joining UniSQ, Dr. Cai worked as a Postdoctoral Research Fellow at Macqua
   <li><strong>10/2025</strong> — Paper accepted by IEEE TCSS Journal, 2025.</li>
   <li><strong>10/2025</strong> — Paper accepted by Knowledge-Based Systems Journal, 2025.</li>
   <li><strong>08/2025</strong> — “Community-Diversified Influence Maximization in Social Networks” recognized as one of the most influential papers of the past decade (Information Systems).</li>
-  <li><strong>03/2025</strong> — Team secured AEA Ignite Grant (IG240100414).</li>
+  <li><strong>08/2025</strong> — Congratulations to Han Li on successfully forming his Nascent Soul.</li>
 </ul>
 
 <div class="small"><a href="/news/">See all news →</a></div>
