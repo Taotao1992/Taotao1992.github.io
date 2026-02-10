@@ -7,20 +7,27 @@ title: Home
 
 <div class="subtitle">Senior Lecturer in Computing, University of Southern Queensland (UniSQ) · Honorary Lecturer, Macquarie University</div>
 
+<div class="card list-tight">
+  <strong>Contact & Links</strong>
+  <ul>
+    <li>Email: <a href="mailto:taotao.cai@unisq.edu.au">taotao.cai@unisq.edu.au</a></li>
+    <li>Google Scholar: <a href="https://scholar.google.com/citations?user=fVUvY0QAAAAJ&hl=zh-CN">https://scholar.google.com/citations?user=fVUvY0QAAAAJ</a></li>
+    <li>UniSQ profile: <a href="https://staffprofile.unisq.edu.au/Profile/Taotao-Cai">https://staffprofile.unisq.edu.au/Profile/Taotao-Cai</a></li>
+  </ul>
+</div>
+
 ## About
 
-Dr. Taotao Cai is a Senior Lecturer in Computing at the University of Southern Queensland (UniSQ) and an Honorary Lecturer at Macquarie University. His primary research interests lie in the field of Graph Learning. He earned his Ph.D. degree from Deakin University in 2020, following two years at The University of Western Australia (Jan 2017 – Mar 2019) and over a year at Deakin University (Mar 2019 – July 2020) during his doctoral studies. Dr. Cai also holds a Master's degree in Computer Science from Shenzhen University (2016).
+Dr. Taotao Cai is a Senior Lecturer in Computing at the University of Southern Queensland (UniSQ) and an Honorary Lecturer at Macquarie University. He earned his Ph.D. degree from Deakin University in 2020, following two years at The University of Western Australia (Jan 2017 – Mar 2019) and over a year at Deakin University (Mar 2019 – Jul 2020) during his doctoral studies. Dr. Cai also holds a Master's degree in Computer Science from Shenzhen University (2016).
 
 Before joining UniSQ, Dr. Cai worked as a Postdoctoral Research Fellow at Macquarie University (Mar 2021 – Jan 2023) and as an Associate Research Fellow at Deakin University (Jul 2020 – Feb 2021). He has served in a range of teaching and academic leadership roles.
 
-<div class="card list-tight">
-  <strong>Links</strong>
-  <ul>
-    <li>GitHub: <a href="https://github.com/Taotao1992">https://github.com/Taotao1992</a></li>
-    <li>Google Sites (previous): <a href="https://sites.google.com/view/taotaocai92/home">https://sites.google.com/view/taotaocai92/home</a></li>
-  </ul>
-  <div class="small">(If you want, tell me your preferred email / Google Scholar / ORCID links and I’ll add them.)</div>
-</div>
+## Research Interests
+
+- Graph learning and graph neural networks
+- Data mining and knowledge discovery
+- Social network analysis and influence maximization
+- Trustworthy / safe AI systems in real-world domains
 
 ## Grants & Key Projects
 
@@ -49,7 +56,15 @@ Before joining UniSQ, Dr. Cai worked as a Postdoctoral Research Fellow at Macqua
 - **[2025] Pilot Research Support Scheme (UniSQ ECR Funding)** — $10,000
 - **[2024] Fake News Detection Research (UniSQ Collaboration Grants)** — $4,000
 
-## News
+## News (recent)
 
-Recent updates are shown on this page; the full list is on <a href="/news/">/news/</a>.
+<ul class="news">
+  <li><strong>01/2026</strong> — AEA Ignite 2025 Round 2 project (Lead CI, IG250200014) officially announced as funded.</li>
+  <li><strong>10/2025</strong> — Paper accepted by IEEE TCSS Journal, 2025.</li>
+  <li><strong>10/2025</strong> — Paper accepted by Knowledge-Based Systems Journal, 2025.</li>
+  <li><strong>08/2025</strong> — “Community-Diversified Influence Maximization in Social Networks” recognized as one of the most influential papers of the past decade (Information Systems).</li>
+  <li><strong>03/2025</strong> — Team secured AEA Ignite Grant (IG240100414).</li>
+</ul>
+
+<div class="small"><a href="/news/">See all news →</a></div>
 
