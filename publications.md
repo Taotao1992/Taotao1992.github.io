@@ -181,6 +181,24 @@ permalink: /publications/
   </li>
 </ul>
 
+<h2 class="pub-year">2017</h2>
+<ul class="pub-list">
+  <li class="pub">
+    <span class="authors">Rui Mao, <strong>Taotao Cai</strong>, Ronghua Li, Jeffrey Xu Yu, Jianxin Li.</span>
+    <span class="title"> Efficient Distance-based Representative Skyline Computation in 2D Space.</span>
+    <span class="venue"> World Wide Web Journal, 20(4): 621-638, 2017 (ERA A, JCR-Q2, IF=1.770).</span>
+  </li>
+</ul>
+
+<h2 class="pub-year">2015</h2>
+<ul class="pub-list">
+  <li class="pub">
+    <span class="authors"><strong>Taotao Cai</strong>, Rong-Hua Li, Jeffrey Xu Yu, Rui Mao, Yadi Cai.</span>
+    <span class="title"> Efficient Algorithm for Distance-based Representative Skyline Computation in 2D Space.</span>
+    <span class="venue"> APWeb-WAIM, 2015 (CORE B).</span>
+  </li>
+</ul>
+
 <hr/>
 
 # Patents
