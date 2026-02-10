@@ -66,11 +66,11 @@ Before joining UniSQ, Dr. Cai worked as a Postdoctoral Research Fellow at Macqua
 ## News (recent)
 
 <ul class="news">
-  <li><strong>01/2026</strong> — AEA Ignite 2025 Round 2 project (Lead CI, IG250200014) officially announced as funded.</li>
-  <li><strong>10/2025</strong> — Paper accepted by IEEE TCSS Journal, 2025.</li>
-  <li><strong>10/2025</strong> — Paper accepted by Knowledge-Based Systems Journal, 2025.</li>
-  <li><strong>08/2025</strong> — “Community-Diversified Influence Maximization in Social Networks” recognized as one of the most influential papers of the past decade (Information Systems).</li>
-  <li><strong>08/2025</strong> — Congratulations to Han Li on successfully forming his Nascent Soul.</li>
+  <li><strong>01/2026</strong> — Exciting news to share ✨: Our AEA Ignite 2025 Round 2 project (Lead CI, IG250200014) has now been officially announced as funded!</li>
+  <li><strong>10/2025</strong> — One paper accepted by IEEE TCSS Journal, 2025 (JCR-Q1, IF=4.9).</li>
+  <li><strong>10/2025</strong> — One paper accepted by Knowledge-Based Systems Journal, 2025. (ERA Rank – B, JCR-Q1, IF=7.6).</li>
+  <li><strong>08/2025</strong> — Our paper, “Community-Diversified Influence Maximization in Social Networks”, has been selected by the Information Systems Journal as one of the most influential papers of the past decade.</li>
+  <li><strong>08/2025</strong> — 😋 Congratulations to Han Li on successfully forming his Nascent Soul. — From the anime <em>A Record of a Mortal’s Journey to Immortality</em> 😋</li>
 </ul>
 
 <div class="small"><a href="/news/">See all news →</a></div>
