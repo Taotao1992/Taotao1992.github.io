@@ -66,11 +66,12 @@ Before joining UniSQ, Dr. Cai worked as a Postdoctoral Research Fellow at Macqua
 ## News (recent)
 
 <ul class="news">
-  <li><strong>01/2026</strong> — Exciting news to share ✨: Our AEA Ignite 2025 Round 2 project (Lead CI, IG250200014) has now been officially announced as funded!</li>
-  <li><strong>10/2025</strong> — One paper accepted by IEEE TCSS Journal, 2025 (JCR-Q1, IF=4.9).</li>
-  <li><strong>10/2025</strong> — One paper accepted by Knowledge-Based Systems Journal, 2025. (ERA Rank – B, JCR-Q1, IF=7.6).</li>
-  <li><strong>08/2025</strong> — Our paper, “Community-Diversified Influence Maximization in Social Networks”, has been selected by the Information Systems Journal as one of the most influential papers of the past decade.</li>
-  <li><strong>08/2025</strong> — 😋 Congratulations to Han Li on successfully forming his Nascent Soul. — From the anime <em>A Record of a Mortal’s Journey to Immortality</em> 😋</li>
+  <li><strong>[01/2026]</strong> Exciting news to share ✨: Our AEA Ignite 2025 Round 2 project (Lead CI, IG250200014) has now been officially announced as funded! (We were actually notified by the Research Office in late December 2025, but it remained under embargo until now.) Combined with an AEA 2025 Round 1 project led by my brilliant colleague (which I’m part of), my “nominal” total funding footprint for 2025 — yes, mostly for bragging rights 😜 — has officially crossed the AUD $1M mark 🎢 Details for this round: 💰 AUD $474,886 (Grant) + AUD $75K (Industry Cash)
+  <br/>A massive thank you to our industry partners for their unwavering support, and a huge shout-out to collaborators from Griffith University, The University of Adelaide, and UniSQ.</li>
+  <li><strong>[10/2025]</strong> One paper accepted by IEEE TCSS Journal, 2025 (JCR-Q1, IF=4.9).</li>
+  <li><strong>[10/2025]</strong> One paper accepted by Knowledge-Based Systems Journal, 2025. (ERA Rank – B, JCR-Q1, IF=7.6).</li>
+  <li><strong>[08/2025]</strong> Our paper, “Community-Diversified Influence Maximization in Social Networks”, has been selected by the Information Systems Journal as one of the most influential papers of the past decade ([URL](https://www.sciencedirect.com/special-issue/10CG3RPRFTG)). This recognition is part of the journal’s 50th Anniversary Virtual Special Issue, celebrating milestone contributions to the field. Information Systems is a highly regarded Core - A* journal in the field of data science.</li>
+  <li><strong>[08/2025]</strong> 😋 Congratulations to Han Li on successfully forming his Nascent Soul. — From the anime A Record of a Mortal’s Journey to Immortality 😋</li>
 </ul>
 
 <div class="small"><a href="/news/">See all news →</a></div>

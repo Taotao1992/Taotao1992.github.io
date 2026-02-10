@@ -32,5 +32,30 @@
         <div>Hosted on GitHub Pages</div>
       </div>
     </footer>
+
+    {% if page.url contains '/publications' %}
+    <script>
+      // Bold author name in both formats: "Taotao Cai" and "Cai, Taotao".
+      (function () {
+        const targets = document.querySelectorAll('.authors');
+        for (const el of targets) {
+          let html = el.innerHTML;
+          // protect already-bolded occurrences
+          html = html.replaceAll('<strong>Taotao Cai</strong>', '%%BOLD_TAOTAO_CAI%%');
+          html = html.replaceAll('<strong>Cai, Taotao</strong>', '%%BOLD_CAI_TAOTAO%%');
+
+          // replace remaining plain occurrences
+          html = html.replaceAll('Taotao Cai', '<strong>Taotao Cai</strong>');
+          html = html.replaceAll('Cai, Taotao', '<strong>Cai, Taotao</strong>');
+
+          // restore protected
+          html = html.replaceAll('%%BOLD_TAOTAO_CAI%%', '<strong>Taotao Cai</strong>');
+          html = html.replaceAll('%%BOLD_CAI_TAOTAO%%', '<strong>Cai, Taotao</strong>');
+
+          el.innerHTML = html;
+        }
+      })();
+    </script>
+    {% endif %}
   </body>
 </html>
