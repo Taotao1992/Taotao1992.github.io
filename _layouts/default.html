@@ -57,19 +57,19 @@
         }
 
         // 2) Highlight CORE/CCF tags inside venue text.
+        // Handle both standalone "(CCF-A)" and mixed lists like "(ERA A*, CCF-A, JCR-Q1, ...)".
         const venueEls = document.querySelectorAll('.venue');
         for (const el of venueEls) {
           let html = el.innerHTML;
-          // CORE A* / A
-          html = html.replace(/\(\s*CORE\s*([^\)]*)\)/gi, function (m, inner) {
-            return '(<span class="badge core">CORE ' + inner.trim() + '</span>)';
+
+          // CORE ... (e.g., CORE A*)
+          html = html.replace(/\bCORE\s*[-\s]*([A-Za-z0-9\*\+]+)\b/g, function (m, grade) {
+            return '<span class="badge core">CORE ' + grade + '</span>';
           });
-          // CCF-A / B / C (and variants like CCF A)
-          html = html.replace(/\(\s*CCF\s*[-\s]*([ABC])\s*\)/gi, function (m, grade) {
-            return '(<span class="badge ccf">CCF-' + grade.toUpperCase() + '</span>)';
-          });
-          html = html.replace(/\(\s*CCF\s*([ABC])\s*\)/gi, function (m, grade) {
-            return '(<span class="badge ccf">CCF-' + grade.toUpperCase() + '</span>)';
+
+          // CCF-A/B/C (accept: CCF-A, CCF A)
+          html = html.replace(/\bCCF\s*[-\s]*([ABC])\b/gi, function (m, grade) {
+            return '<span class="badge ccf">CCF-' + grade.toUpperCase() + '</span>';
           });
 
           el.innerHTML = html;
