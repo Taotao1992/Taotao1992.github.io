@@ -18,18 +18,28 @@ header{border-bottom:1px solid var(--border);background:rgba(255,255,255,.92);ba
 
 /* top-left brand highlight */
 .brand{
+  position:relative;
   display:inline-block;
   padding:6px 12px;
   border-radius:999px;
   border:1px solid #e5e7eb;
-  background:linear-gradient(135deg, rgba(11,99,206,0.10), rgba(109,40,217,0.10));
   box-shadow:0 6px 18px rgba(17,24,39,0.06);
   font-weight:800;
   letter-spacing:0.2px;
+
+  /* gradient text */
   color:transparent;
   background-image:linear-gradient(90deg, #0b63ce, #6d28d9);
   -webkit-background-clip:text;
   background-clip:text;
+}
+.brand::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  border-radius:999px;
+  background:linear-gradient(135deg, rgba(11,99,206,0.10), rgba(109,40,217,0.10));
+  z-index:-1;
 }
 .brand:hover{filter:saturate(1.15)}
 
