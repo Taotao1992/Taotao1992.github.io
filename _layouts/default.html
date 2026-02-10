@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}" />
+    <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}" />
+  </head>
+  <body>
+    <header>
+      <div class="header-inner">
+        <div class="site-title"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></div>
+        <nav>
+          <a href="{{ "/" | relative_url }}">Home</a>
+          <a href="{{ "/publications/" | relative_url }}">Publications</a>
+          <a href="{{ "/teaching-supervision/" | relative_url }}">Teaching</a>
+          <a href="{{ "/professional-activities/" | relative_url }}">Service</a>
+          <a href="{{ "/miscellaneous/" | relative_url }}">Misc</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container">
+      {{ content }}
+    </main>
+
+    <footer>
+      <div class="footer-inner small">
+        <div>© {{ "now" | date: "%Y" }} {{ site.title }}</div>
+        <div>Hosted on GitHub Pages</div>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+title: "Taotao Cai"
+description: "Academic homepage"
+url: "https://taotao1992.github.io"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+permalink: pretty
+
+# Build settings
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
