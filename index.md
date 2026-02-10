@@ -15,6 +15,7 @@ title: Home
     <li>Email: <a href="mailto:taotao.cai@unisq.edu.au">taotao.cai@unisq.edu.au</a></li>
     <li>Google Scholar: <a href="https://scholar.google.com/citations?user=fVUvY0QAAAAJ&hl=zh-CN">https://scholar.google.com/citations?user=fVUvY0QAAAAJ</a></li>
     <li>UniSQ profile: <a href="https://staffprofile.unisq.edu.au/Profile/Taotao-Cai">https://staffprofile.unisq.edu.au/Profile/Taotao-Cai</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/taotao-cai-24a328140/">https://www.linkedin.com/in/taotao-cai-24a328140/</a></li>
   </ul>
 </div>
 
