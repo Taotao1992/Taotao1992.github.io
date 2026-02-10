@@ -6,10 +6,8 @@ title: Home
 <div class="hero">
   <img class="avatar" src="/assets/img/avatar.jpg" alt="Taotao Cai" />
   <div class="hero-main">
-
-# Dr. Taotao Cai
-
-<div class="subtitle">Senior Lecturer in Computing, University of Southern Queensland (UniSQ)</div>
+    <h1 style="margin:0 0 10px 0;">Dr. Taotao Cai</h1>
+    <div class="subtitle">Senior Lecturer in Computing, University of Southern Queensland (UniSQ)</div>
 
 <div class="card list-tight">
   <strong>Contact & Links</strong>
