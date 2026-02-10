@@ -46,7 +46,12 @@ Before joining UniSQ, Dr. Cai worked as a Postdoctoral Research Fellow at Macqua
     The key deliverable is a <strong>TRL 5 Proactive Safety Assurance Module</strong>, validated in the partner’s environment, that automates SWMS compliance auditing and generates dynamic safety checklists.
     Advancing the technology from TRL 3 to TRL 5 provides a clear commercialisation pathway for construction SMEs.
   </p>
-  <div class="small">Official announcement: <a href="https://www.aea.gov.au/news/australia-backs-new-wave-high-impact-research-over-725-million-aea-ignite-grants">AEA Ignite news</a></div>
+  <div class="small">
+    Official announcement: <a href="https://www.aea.gov.au/news/australia-backs-new-wave-high-impact-research-over-725-million-aea-ignite-grants">AEA Ignite news</a>
+  </div>
+  <div class="small">
+    <strong>High-Impact Recognition:</strong> Selected as the featured project for Queensland in the Australian Government’s official announcement (one key initiative per state). The release specifically highlighted this project’s capacity “to improve construction safety using AI compliance detection.”
+  </div>
 </div>
 
 <div class="card">
