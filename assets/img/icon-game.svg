@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Game">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1f2937"/>
+    </linearGradient>
+  </defs>
+  <rect x="32" y="32" width="448" height="448" rx="72" fill="url(#g)"/>
+  <path d="M164 196c-36 0-66 30-66 66v40c0 36 30 66 66 66h184c36 0 66-30 66-66v-40c0-36-30-66-66-66H164z" fill="#fff" opacity="0.92"/>
+  <rect x="168" y="250" width="64" height="20" rx="10" fill="#111827"/>
+  <rect x="190" y="228" width="20" height="64" rx="10" fill="#111827"/>
+  <circle cx="330" cy="246" r="16" fill="#0b63ce"/>
+  <circle cx="362" cy="270" r="16" fill="#111827" opacity="0.75"/>
+</svg>
