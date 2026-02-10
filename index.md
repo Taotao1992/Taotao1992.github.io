@@ -25,7 +25,7 @@ title: Home
 
 ## About
 
-Dr. Taotao Cai is a Senior Lecturer in Computing at the University of Southern Queensland (UniSQ). He earned his Ph.D. degree from Deakin University in 2020, following two years at The University of Western Australia (Jan 2017 – Mar 2019) and over a year at Deakin University (Mar 2019 – Jul 2020) during his doctoral studies. Dr. Cai also holds a Master's degree in Computer Science from Shenzhen University (2016).
+Dr. Taotao Cai is a Senior Lecturer in Computing at the University of Southern Queensland (UniSQ) and an Honorary Lecturer at Macquarie University. He earned his Ph.D. degree from Deakin University in 2020, following two years at The University of Western Australia (Jan 2017 – Mar 2019) and over a year at Deakin University (Mar 2019 – Jul 2020) during his doctoral studies. Dr. Cai also holds a Master's degree in Computer Science from Shenzhen University (2016).
 
 Before joining UniSQ, Dr. Cai worked as a Postdoctoral Research Fellow at Macquarie University (Mar 2021 – Jan 2023) and as an Associate Research Fellow at Deakin University (Jul 2020 – Feb 2021). He has served in a range of teaching and academic leadership roles.
 
