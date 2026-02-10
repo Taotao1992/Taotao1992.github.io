@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+<div class="hero">
+  <img class="avatar" src="/assets/img/avatar.jpg" alt="Taotao Cai" />
+  <div class="hero-main">
+
 # Dr. Taotao Cai
 
 <div class="subtitle">Senior Lecturer in Computing, University of Southern Queensland (UniSQ) · Honorary Lecturer, Macquarie University</div>
@@ -16,6 +20,9 @@ title: Home
   </ul>
 </div>
 
+  </div>
+</div>
+
 ## About
 
 Dr. Taotao Cai is a Senior Lecturer in Computing at the University of Southern Queensland (UniSQ) and an Honorary Lecturer at Macquarie University. He earned his Ph.D. degree from Deakin University in 2020, following two years at The University of Western Australia (Jan 2017 – Mar 2019) and over a year at Deakin University (Mar 2019 – Jul 2020) during his doctoral studies. Dr. Cai also holds a Master's degree in Computer Science from Shenzhen University (2016).
@@ -24,10 +31,10 @@ Before joining UniSQ, Dr. Cai worked as a Postdoctoral Research Fellow at Macqua
 
 ## Research Interests
 
-- Graph learning and graph neural networks
-- Data mining and knowledge discovery
-- Social network analysis and influence maximization
-- Trustworthy / safe AI systems in real-world domains
+- Foundational graph learning (graph representation learning; graph neural networks)
+- Fake news detection and misinformation mining
+- Social network analysis (including emerging online networks)
+- AI for sustainable systems (remote sensing + AI for renewable energy, resilient infrastructure, and smart construction)
 
 ## Grants & Key Projects
 
