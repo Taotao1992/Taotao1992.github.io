@@ -22,25 +22,34 @@ Before joining UniSQ, Dr. Cai worked as a Postdoctoral Research Fellow at Macqua
   <div class="small">(If you want, tell me your preferred email / Google Scholar / ORCID links and I’ll add them.)</div>
 </div>
 
-## Grants (Total Funding Secured &gt; $1 Million)
+## Grants & Key Projects
 
-- **[2026–2027] SafeBuild AI: Intelligent Safety and Efficiency for Construction SMEs**  
-  Role: Lead Chief Investigator (Lead CI) · Funding: Australia’s Economic Accelerator (AEA) Ignite Round 2 · Amount: $549,886 (Grant: $474,886 + Industry Cash: $75,000) · Project ID: IG250200014  
-  High-Impact Recognition: featured project for Queensland in the Australian Government’s official announcement: <a href="https://www.aea.gov.au/news/australia-backs-new-wave-high-impact-research-over-725-million-aea-ignite-grants">link</a>
+<div class="card">
+  <strong>IG250200014 — SafeBuild AI: Intelligent Safety and Efficiency for Construction SMEs (2026–2027)</strong><br/>
+  <span class="small">Role: Lead Chief Investigator (Lead CI) · Funding: AEA Ignite Round 2 · Amount: $549,886 (AEA $474,886 + Industry $75,000)</span>
+  <p>
+    This project aims to develop an AI-powered safety assurance platform to reduce incidents and ease administrative burdens in Australian construction.
+    We will create a lightweight, domain-specific LLM with <em>construction-savvy reasoning</em> using partner data.
+    The key deliverable is a <strong>TRL 5 Proactive Safety Assurance Module</strong>, validated in the partner’s environment, that automates SWMS compliance auditing and generates dynamic safety checklists.
+    Advancing the technology from TRL 3 to TRL 5 provides a clear commercialisation pathway for construction SMEs.
+  </p>
+  <div class="small">Official announcement: <a href="https://www.aea.gov.au/news/australia-backs-new-wave-high-impact-research-over-725-million-aea-ignite-grants">AEA Ignite news</a></div>
+</div>
 
-- **[2025–2026] Intelligent Agent for Efficient and Effective Frequency Control Ancillary Services Targeting Renewable Energy Power Systems**  
-  Role: Chief Investigator (CI) (Lead: Dr. Yanming Zhu, Griffith University) · Funding: AEA Ignite Round 1 · Amount: $508,442 (Grant: $429,720 + Industry Cash: $78,722) · Project ID: IG240100414
+<div class="card">
+  <strong>IG240100414 — Intelligent FCAS Agent for Renewable Energy Power Systems (2025–2026)</strong><br/>
+  <span class="small">Role: Chief Investigator (CI) (Lead: Dr. Yanming Zhu, Griffith University) · Funding: AEA Ignite Round 1 · Amount: $508,442 (AEA $429,720 + Industry $78,722)</span>
+  <p>
+    The goal is to analyse grid data and predict grid frequency fluctuations to optimise power dispatch and battery storage in solar power systems, enabling efficient intelligent energy management.
+    This reduces power supply costs and enhances the stability and efficiency of the national grid.
+    Building on the team’s TRL 3 techniques, the project targets a semi-integrated system and aims to reach <strong>TRL 5</strong> to support commercialisation.
+  </p>
+</div>
 
 - **[2025] Pilot Research Support Scheme (UniSQ ECR Funding)** — $10,000
 - **[2024] Fake News Detection Research (UniSQ Collaboration Grants)** — $4,000
 
-## News (selected)
+## News
 
-- **01/2026** — AEA Ignite 2025 Round 2 project announced as funded (Lead CI, IG250200014).
-- **10/2025** — Paper accepted by IEEE TCSS, 2025.
-- **10/2025** — Paper accepted by Knowledge-Based Systems, 2025.
-- **08/2025** — “Community-Diversified Influence Maximization in Social Networks” selected as one of the most influential papers of the past decade (Information Systems).
-- **03/2025** — Team secured AEA Ignite Grant (IG240100414).
-- **10/2024** — Promoted to Senior Lecturer.
+Recent updates are shown on this page; the full list is on <a href="/news/">/news/</a>.
 
-<div class="small">Full news history is still on the old Google Sites page; if you want it all copied here too, I can add a dedicated “News” page.</div>
