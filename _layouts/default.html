@@ -62,9 +62,12 @@
         for (const el of venueEls) {
           let html = el.innerHTML;
 
-          // CORE ... (e.g., CORE A*)
-          html = html.replace(/\bCORE\s*[-\s]*([A-Za-z0-9\*\+]+)\b/g, function (m, grade) {
-            return '<span class="badge core">CORE ' + grade + '</span>';
+          // CORE ... (e.g., CORE A*, CORE2018 A*)
+          // Avoid word-boundary bugs that drop the trailing "*".
+          html = html.replace(/\bCORE\s*(\d{4})?\s*[-\s]*([A-C])\s*(\*)?/gi, function (m, year, grade, star) {
+            const y = year ? year : '';
+            const s = star ? '*' : '';
+            return '<span class="badge core">CORE' + y + ' ' + grade.toUpperCase() + s + '</span>';
           });
 
           // CCF-A/B/C (accept: CCF-A, CCF A)
