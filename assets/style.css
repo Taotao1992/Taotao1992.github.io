@@ -63,3 +63,7 @@ ul.news li::before{content:"•";position:absolute;left:0;color:var(--muted)}
 .pub .title{font-weight:650}
 .pub .venue{color:var(--muted)}
 .pub .note{color:var(--muted);font-size:13px}
+
+.badge{display:inline-block;padding:2px 8px;border-radius:999px;font-size:12px;line-height:1.4;border:1px solid var(--border);background:#fff;margin:0 4px 2px 0;white-space:nowrap}
+.badge.core{border-color:#dbeafe;background:#eff6ff;color:#1d4ed8}
+.badge.ccf{border-color:#dcfce7;background:#f0fdf4;color:#166534}

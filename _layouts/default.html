@@ -37,6 +37,7 @@
     <script>
       // Bold author name in both formats: "Taotao Cai" and "Cai, Taotao".
       (function () {
+        // 1) Bold author name in both formats.
         const targets = document.querySelectorAll('.authors');
         for (const el of targets) {
           let html = el.innerHTML;
@@ -51,6 +52,25 @@
           // restore protected
           html = html.replaceAll('%%BOLD_TAOTAO_CAI%%', '<strong>Taotao Cai</strong>');
           html = html.replaceAll('%%BOLD_CAI_TAOTAO%%', '<strong>Cai, Taotao</strong>');
+
+          el.innerHTML = html;
+        }
+
+        // 2) Highlight CORE/CCF tags inside venue text.
+        const venueEls = document.querySelectorAll('.venue');
+        for (const el of venueEls) {
+          let html = el.innerHTML;
+          // CORE A* / A
+          html = html.replace(/\(\s*CORE\s*([^\)]*)\)/gi, function (m, inner) {
+            return '(<span class="badge core">CORE ' + inner.trim() + '</span>)';
+          });
+          // CCF-A / B / C (and variants like CCF A)
+          html = html.replace(/\(\s*CCF\s*[-\s]*([ABC])\s*\)/gi, function (m, grade) {
+            return '(<span class="badge ccf">CCF-' + grade.toUpperCase() + '</span>)';
+          });
+          html = html.replace(/\(\s*CCF\s*([ABC])\s*\)/gi, function (m, grade) {
+            return '(<span class="badge ccf">CCF-' + grade.toUpperCase() + '</span>)';
+          });
 
           el.innerHTML = html;
         }
