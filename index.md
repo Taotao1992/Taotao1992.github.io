@@ -70,12 +70,17 @@ Before joining UniSQ, Dr. Cai worked as a Postdoctoral Research Fellow at Macqua
 ## News (recent)
 
 <ul class="news">
-  <li><strong>[01/2026]</strong> Exciting news to share ✨: Our AEA Ignite 2025 Round 2 project (Lead CI, IG250200014) has now been officially announced as funded! (We were actually notified by the Research Office in late December 2025, but it remained under embargo until now.) Combined with an AEA 2025 Round 1 project led by my brilliant colleague (which I’m part of), my “nominal” total funding footprint for 2025 — yes, mostly for bragging rights 😜 — has officially crossed the AUD $1M mark 🎢 Details for this round: 💰 AUD $474,886 (Grant) + AUD $75K (Industry Cash)
-  <br/>A massive thank you to our industry partners for their unwavering support, and a huge shout-out to collaborators from Griffith University, The University of Adelaide, and UniSQ.</li>
-  <li><strong>[08/2025]</strong> Our paper, “Community-Diversified Influence Maximization in Social Networks”, has been selected by the Information Systems Journal as one of the most influential papers of the past decade ([URL](https://www.sciencedirect.com/special-issue/10CG3RPRFTG)). This recognition is part of the journal’s 50th Anniversary Virtual Special Issue, celebrating milestone contributions to the field. Information Systems is a highly regarded Core - A* journal in the field of data science.</li>
-  <li><strong>[08/2025]</strong> 😋 Congratulations to Han Li on successfully forming his Nascent Soul. — From the anime A Record of a Mortal’s Journey to Immortality 😋</li>
-  <li><strong>[05/2025]</strong> Congratulations to Penghui! His paper, “LG-Umer: A UNet-like Network Integrating Local-Global Features with a Novel Attention Mechanism for Road Extraction from Remote Sensing Images,” has been accepted by the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI Q1). Penghui’s dedication and hard work are truly admirable. Best of luck with the third and final manuscripts now in progress. 🍀Those who devote themselves wholeheartedly to their work will one day walk a path awash in blossom and fragrance with blossoms.💐</li>
-  <li><strong>[03/2025]</strong> I am thrilled to share that our team has secured a $429,720 Australia's Economic Accelerator (AEA) – Ignite Grant (IG240100414) from the Department of Education, Australia. The project, titled Intelligent Agent for Efficient and Effective Frequency Control Ancillary Services Targeting Renewable Energy Power Systems ([Link](https://www.linkedin.com/posts/unisq-school-of-mathematics-physics-and-computing_unisqproud-unisqstories-unisqpeople-activity-7310519744648908800-5a5-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACI4PVoBsBiIx_wFVGaqabTGMAQDmYOXfZw)).</li>
+  <li><strong>[01/2026]</strong> AEA Ignite Round 2 project (Lead CI, IG250200014) officially announced as funded (AEA $474,886 + Industry $75,000).<br/>
+    <span class="small">Official announcement: <a href="https://www.aea.gov.au/news/australia-backs-new-wave-high-impact-research-over-725-million-aea-ignite-grants">AEA Ignite news</a></span>
+  </li>
+  <li><strong>[08/2025]</strong> “Community-Diversified Influence Maximization in Social Networks” selected as one of Information Systems Journal’s most influential papers of the past decade.<br/>
+    <span class="small">Virtual special issue: <a href="https://www.sciencedirect.com/special-issue/10CG3RPRFTG">Information Systems (50th Anniversary)</a></span>
+  </li>
+  <li><strong>[08/2025]</strong> Congrats to Han Li on successfully forming his Nascent Soul (A Record of a Mortal’s Journey to Immortality).</li>
+  <li><strong>[05/2025]</strong> Congrats to Penghui — “LG-Umer … for Road Extraction from Remote Sensing Images” accepted by IEEE JSTARS (SCI Q1).</li>
+  <li><strong>[03/2025]</strong> Secured AEA Ignite Grant (IG240100414; AEA $429,720) for “Intelligent FCAS Agent for Renewable Energy Power Systems.”<br/>
+    <span class="small">Project announcement: <a href="https://www.linkedin.com/posts/unisq-school-of-mathematics-physics-and-computing_unisqproud-unisqstories-unisqpeople-activity-7310519744648908800-5a5-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACI4PVoBsBiIx_wFVGaqabTGMAQDmYOXfZw">UniSQ LinkedIn post</a></span>
+  </li>
 </ul>
 
 <div class="small"><a href="/news/">See all news →</a></div>
