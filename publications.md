@@ -8,6 +8,14 @@ permalink: /publications/
 
 <div class="small">(DBLP-style listing; <strong>Taotao Cai</strong> is highlighted.)</div>
 
+<h2 class="pub-year">2026</h2>
+<ul class="pub-list">
+  <li class="pub">
+    <span class="authors">Penghui Niu, Jiashuai She, <strong>Taotao Cai</strong>, Yajuan Zhang, Ping Zhang, Junhua Gu, Jianxin Li.</span>
+    <span class="title">MPCM-Net: A multi-scale network that integrates partial attention convolution with Mamba for ground-based cloud image segmentation.</span>
+    <span class="venue">IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026 (Top-tier journal in Remote Sensing).</span>
+  </li>
+</ul>
 <h2 class="pub-year">2025</h2>
 <ul class="pub-list">
   <li class="pub">
