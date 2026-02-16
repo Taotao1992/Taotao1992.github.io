@@ -70,6 +70,7 @@ Before joining UniSQ, Dr. Cai worked as a Postdoctoral Research Fellow at Macqua
 ## News (recent)
 
 <ul class="news">
+  <li><strong>[02/2026]</strong> One paper accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS) (SCI Q1, Top-tier). Congratulations to Penghui!</li>
   <li><strong>[01/2026]</strong> AEA Ignite Round 2 project (Lead CI, IG250200014) officially announced as funded (AEA $474,886 + Industry $75,000).<br/>
     <span class="small">Official announcement: <a href="https://www.aea.gov.au/news/australia-backs-new-wave-high-impact-research-over-725-million-aea-ignite-grants">AEA Ignite news</a></span>
   </li>
