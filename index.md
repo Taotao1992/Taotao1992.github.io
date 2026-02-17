@@ -74,7 +74,7 @@ Before joining UniSQ, Dr. Cai worked as a Postdoctoral Research Fellow at Macqua
   <li><strong>[01/2026]</strong> AEA Ignite Round 2 project (Lead CI, IG250200014) officially announced as funded (AEA $474,886 + Industry $75,000).<br/>
     <span class="small">Official announcement: <a href="https://www.aea.gov.au/news/australia-backs-new-wave-high-impact-research-over-725-million-aea-ignite-grants">AEA Ignite news</a></span>
   </li>
-  <li><strong>[08/2025]</strong> “Community-Diversified Influence Maximization in Social Networks” selected as one of Information Systems Journal’s (Core-A^*) most influential papers of the past decade.<br/>
+  <li><strong>[08/2025]</strong> “Community-Diversified Influence Maximization in Social Networks” selected as one of <span class="venue"> Information Systems (CORE A*).</span>’s most influential papers of the past decade.<br/>
     <span class="small">Virtual special issue: <a href="https://www.sciencedirect.com/special-issue/10CG3RPRFTG">Information Systems (50th Anniversary)</a></span>
   </li>
   <li><strong>[08/2025]</strong> Congrats to Han Li on successfully forming his Nascent Soul (A Record of a Mortal’s Journey to Immortality).</li>
