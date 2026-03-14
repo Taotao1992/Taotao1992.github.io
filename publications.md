@@ -15,6 +15,11 @@ permalink: /publications/
     <span class="title">MPCM-Net: A multi-scale network that integrates partial attention convolution with Mamba for ground-based cloud image segmentation.</span>
     <span class="venue">IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026 (Top-tier journal in Remote Sensing).</span>
   </li>
+  <li class="pub">
+    <span class="authors">Mingyi Liu, Zijie Yin, Congcong Tian, Shuang Yu, <strong>Taotao Cai</strong>, Zhihui Xu, Zhongjie Wang.</span>
+    <span class="title"> MARS: A Multi-Agent Collaborative Reasoning Framework for Service Recommendation.</span>
+    <span class="venue"> IEEE TSC, 2026 (CORE A*, CCF-A, JCR-Q1, IF=5.8).</span>
+  </li>
 </ul>
 <h2 class="pub-year">2025</h2>
 <ul class="pub-list">
