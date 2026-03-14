@@ -18,7 +18,7 @@ permalink: /publications/
   <li class="pub">
     <span class="authors">Mingyi Liu, Zijie Yin, Congcong Tian, Shuang Yu, <strong>Taotao Cai</strong>, Zhihui Xu, Zhongjie Wang.</span>
     <span class="title"> MARS: A Multi-Agent Collaborative Reasoning Framework for Service Recommendation.</span>
-    <span class="venue"> IEEE TSC, 2026 (CORE A*, CCF-A, JCR-Q1, IF=5.8).</span>
+    <span class="venue"> IEEE Transactions on Services Computing （IEEE TSC）, 2026 (CORE A*, CCF-A, JCR-Q1, IF=5.8).</span>
   </li>
 </ul>
 <h2 class="pub-year">2025</h2>
