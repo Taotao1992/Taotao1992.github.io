@@ -6,6 +6,8 @@ permalink: /news/
 
 # News!
 
+[03/2026] One paper accepted by IEEE Transactions on Services Computing, 2026. (CCF-A, CORE A*)
+
 [02/2026] One paper accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS). (SCI Q1, Top-tier). Congratulations to Penghui!
 
 [01/2026] Exciting news to share ✨: Our AEA Ignite 2025 Round 2 project (Lead CI, IG250200014) has now been officially announced as funded! (We were actually notified by the Research Office in late December 2025, but it remained under embargo until now.) Combined with an AEA 2025 Round 1 project led by my brilliant colleague (which I’m part of), my “nominal” total funding footprint for 2025 — yes, mostly for bragging rights 😜 — has officially crossed the AUD $1M mark 🎢 Details for this round: 💰 AUD $474,886 (Grant) + AUD $75K (Industry Cash)
