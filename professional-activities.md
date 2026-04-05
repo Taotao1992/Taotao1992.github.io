@@ -8,7 +8,7 @@ permalink: /professional-activities/
 
 ## Journal Reviewer
 
-- IEEE: Transactions on Knowledge and Data Engineering (TKDE), Transactions on Knowledge Discovery from Data (TKDD)
+- IEEE: Transactions on Knowledge and Data Engineering (TKDE), Transactions on Knowledge Discovery from Data (TKDD), etc.
 - Springer: World Wide Web Journal, Computing Journal
 - Elsevier: Array, Knowledge-Based Systems (KBS), ISA Transactions
 - PLOS ONE
@@ -16,11 +16,11 @@ permalink: /professional-activities/
 
 ## Conference Program Committee Member
 
-WWW 2026; ADMA 2024 (Meta Reviewer); CIKM (2022–2025); APWeb (2023); IEEE BigData (2023); DASFAA (2023–2026); BESC (2022–2023); EUSPN (2022); ACIS (2022); AJCAI (2021); ADMA (2019–2020); ADC (2019–2020)
+WWW (2024-2026); ADMA 2024 (Meta Reviewer); CIKM (2022–2025); APWeb (2023); IEEE BigData (2023); DASFAA (2023–2026); BESC (2022–2023); EUSPN (2022); ACIS (2022); AJCAI (2021); ADMA (2019–2020); ADC (2019–2020)
 
 ## Conference Reviewer
 
-SIGKDD (2023); AAAI (2021–2022); IEEE ICDE (2020); ACM CIKM (2017, 2018, 2021); DASFAA (2019); PAKDD (2020); ADC (2021); APWeb (2020)
+CVPR (2026); NeurIPS; SIGKDD (2023); AAAI (2021–2022); IEEE ICDE (2020); ACM CIKM (2017, 2018, 2021); DASFAA (2019); PAKDD (2020); ADC (2021); APWeb (2020)
 
 ## Organized Conference & Special Sessions
 
