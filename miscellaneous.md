@@ -49,5 +49,6 @@ permalink: /miscellaneous/
   <div class="video"><iframe src="https://www.youtube.com/embed/3FofqLhGVS0" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
   <div class="video"><iframe src="https://www.youtube.com/embed/VnClrVheJPY" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
   <div class="video"><iframe src="https://www.youtube.com/embed/Q7539G_UXNY" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+   <div class="video"><iframe src="https://www.youtube.com/embed/1yC4j7f7tk8" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 </div>
 
