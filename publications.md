@@ -20,6 +20,17 @@ permalink: /publications/
     <span class="title"> MARS: A Multi-Agent Collaborative Reasoning Framework for Service Recommendation.</span>
     <span class="venue"> IEEE Transactions on Services Computing （IEEE TSC）, 2026 (CORE A*, CCF-A, JCR-Q1, IF=5.8).</span>
   </li>
+  <li class="pub">
+  <span class="authors">Shuang Wang, He Zhang, Xiaoping Li, <strong>Taotao Cai</strong>, Michael Sheng, Jixiang Lu.</span>
+  <span class="title">Truth Discovery From Multiple Dependent Sources.</span>
+  <span class="venue">IEEE Transactions on Computational Social Systems (IEEE TCSS), 2026.</span>
+</li>
+
+<li class="pub">
+  <span class="authors">Aditya P. Kamath, Xiaohui Tao, <strong>Taotao Cai</strong>, Prabal Datta Barua, Sreeni Chadalavada, Abdulkadir Sengur.</span>
+  <span class="title">Explainable pain level classification using a natural visibility graph-driven adaptive dilated recurrent unit with speech signals.</span>
+  <span class="venue">Biomedical Signal Processing and Control, 2026.</span>
+</li>
 </ul>
 <h2 class="pub-year">2025</h2>
 <ul class="pub-list">
