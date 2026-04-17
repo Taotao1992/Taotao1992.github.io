@@ -36,15 +36,15 @@ permalink: /teaching-supervision/
   <div class="showcase-card">
     <h3>University of Southern Queensland (UniSQ)</h3>
     <ul class="timeline">
-      <li>CSC2220 — Artificial Intelligence <span class="small">(Curriculum Designing, Lecturer, Unit Convenor)</span></li>
-      <li>CSC6202 — Natural Language Processing: Techniques and Applications <span class="small">(Lecturer, Unit Convenor)</span></li>
-      <li>CSC6003 — Machine Learning <span class="small">(Lecturer, Unit Convenor)</span></li>
       <li>CSC1410 — Software Engineering Foundations <span class="small">(Lecturer, Unit Convenor)</span></li>
-      <li>CSC8710 — Software Design and Modelling <span class="small">(Lecturer, Unit Convenor)</span></li>
-      <li>CSC6204 — Information Retrieval and Knowledge Management <span class="small">(Co-Curriculum Designing)</span></li>
-      <li>CSC8720 — Programming Algorithms <span class="small">(Lecturer, Unit Convenor)</span></li>
+      <li>CSC2220 — Artificial Intelligence <span class="small">(Curriculum Designing, Lecturer, Unit Convenor)</span></li>
       <li>CSC3420 — Mobile Internet Technology <span class="small">(Lecturer, Unit Convenor)</span></li>
       <li>CSC5090 — Foundations of IT Systems Administration <span class="small">(Unit Convenor)</span></li>
+      <li>CSC5720 — Programming Algorithms <span class="small">(Lecturer, Unit Convenor)</span></li>
+      <li>CSC6003 — Machine Learning <span class="small">(Lecturer, Unit Convenor)</span></li>
+      <li>CSC6202 — Natural Language Processing: Techniques and Applications <span class="small">(Lecturer, Unit Convenor)</span></li>
+      <li>CSC6204 — Information Retrieval and Knowledge Management <span class="small">(Co-Curriculum Designing)</span></li>
+      <li>CSC8710 — Software Design and Modelling <span class="small">(Lecturer, Unit Convenor)</span></li>
     </ul>
   </div>
   <div class="teaching-col">
