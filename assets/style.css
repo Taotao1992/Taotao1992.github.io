@@ -99,3 +99,92 @@ ul.news li::before{content:"•";position:absolute;left:0;color:var(--muted)}
 /* emphasis pill */
 .pill{display:inline-block;padding:2px 10px;border-radius:999px;font-size:12px;line-height:1.5;border:1px solid}
 .pill-red{border-color:#fecaca;background:#fef2f2;color:#b91c1c}
+
+/* enhanced section visuals */
+.section-intro{
+  margin:10px 0 18px;
+  padding:14px 16px;
+  border:1px solid #dbeafe;
+  border-radius:14px;
+  background:linear-gradient(135deg, rgba(239,246,255,0.9), rgba(245,243,255,0.9));
+}
+.section-intro h2{margin:0 0 6px 0}
+.section-intro p{margin:0;color:#4b5563}
+
+.showcase-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+  gap:14px;
+  margin:12px 0 22px;
+}
+.showcase-card{
+  position:relative;
+  padding:14px 14px 12px;
+  border-radius:14px;
+  border:1px solid var(--border);
+  background:#fff;
+  overflow:hidden;
+  transition:transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+}
+.showcase-card::before{
+  content:"";
+  position:absolute;
+  inset:0 0 auto 0;
+  height:3px;
+  background:linear-gradient(90deg,#0b63ce,#7c3aed);
+}
+.showcase-card:hover{
+  transform:translateY(-2px);
+  box-shadow:0 12px 28px rgba(17,24,39,0.1);
+  border-color:#c7d2fe;
+}
+.showcase-card h3{margin:0 0 8px 0;font-size:16px}
+.showcase-card p{margin:0;color:#4b5563}
+
+.chip-row{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-top:10px;
+}
+.chip{
+  display:inline-block;
+  border:1px solid #d1d5db;
+  background:#f9fafb;
+  color:#374151;
+  font-size:12px;
+  border-radius:999px;
+  padding:3px 9px;
+}
+
+.timeline{
+  list-style:none;
+  margin:8px 0 0;
+  padding:0 0 0 16px;
+  border-left:2px dashed #d1d5db;
+}
+.timeline li{
+  position:relative;
+  margin:0 0 12px;
+  padding:2px 0 2px 12px;
+}
+.timeline li::before{
+  content:"";
+  position:absolute;
+  left:-23px;
+  top:10px;
+  width:9px;
+  height:9px;
+  border-radius:999px;
+  background:#2563eb;
+  box-shadow:0 0 0 3px #dbeafe;
+}
+
+.glass{
+  background:rgba(255,255,255,0.84);
+  border:1px solid rgba(203,213,225,0.8);
+  box-shadow:0 10px 30px rgba(15,23,42,0.08);
+  backdrop-filter:blur(8px);
+  border-radius:16px;
+  padding:14px 16px;
+}

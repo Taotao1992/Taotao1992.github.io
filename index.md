@@ -86,3 +86,35 @@ Before joining UniSQ, Dr. Cai worked as a Postdoctoral Research Fellow at Macqua
 
 <div class="small"><a href="/news/">See all news →</a></div>
 
+## Explore More
+
+<div class="showcase-grid">
+  <a class="showcase-card" href="/teaching-supervision/" style="text-decoration:none;color:inherit;">
+    <h3>Teaching & Supervision</h3>
+    <p>Course leadership, curriculum design, and HDR supervision across AI and software systems.</p>
+    <div class="chip-row">
+      <span class="chip">Courses</span>
+      <span class="chip">Mentoring</span>
+      <span class="chip">UniSQ</span>
+    </div>
+  </a>
+  <a class="showcase-card" href="/professional-activities/" style="text-decoration:none;color:inherit;">
+    <h3>Service & Professional Activities</h3>
+    <p>Editorial roles, reviewer contributions, and conference organization for the research community.</p>
+    <div class="chip-row">
+      <span class="chip">Reviewer</span>
+      <span class="chip">PC Member</span>
+      <span class="chip">Organizer</span>
+    </div>
+  </a>
+  <a class="showcase-card" href="/miscellaneous/" style="text-decoration:none;color:inherit;">
+    <h3>Miscellaneous</h3>
+    <p>Personal favorites and selected videos that reflect interests beyond academic work.</p>
+    <div class="chip-row">
+      <span class="chip">Favorites</span>
+      <span class="chip">Videos</span>
+      <span class="chip">Lifestyle</span>
+    </div>
+  </a>
+</div>
+
