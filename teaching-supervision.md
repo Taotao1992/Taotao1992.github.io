@@ -58,6 +58,13 @@ permalink: /teaching-supervision/
       <li>SIT744 — Practical Machine Learning for Data Science <span class="small">(Guest Lecturer & Tutor; OSI: 100%)</span></li>
     </ul>
   </div>
+  <div class="showcase-card">
+    <h3>The University of Western Australia</h3>
+    <ul class="timeline">
+      <li>CITS1402 — Relational Database Management Systems <span class="small">(Tutor, 2018 S2)</span></li>
+      <li>CITS1402 — Relational Database Management Systems <span class="small">(Tutor, 2017 S2)</span></li>
+    </ul>
+  </div>
 </div>
 
 ## HDR Supervision (Current)
