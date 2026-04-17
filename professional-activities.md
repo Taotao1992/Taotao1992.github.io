@@ -49,13 +49,13 @@ permalink: /professional-activities/
 ## Organized Conference & Special Sessions
 
 <ul class="timeline">
-  <li>Guest Editor, Array: Special issue on Multi-modal learning and its applications in the open environment ([link](https://www.sciencedirect.com/journal/array/about/call-for-papers))</li>
-  <li>Registration Management Chairs, ADMA 2024 ([link](https://adma2024.github.io/organisation_committee.html))</li>
-  <li>Workshop Co-Chair, IEEE DSC 2023 ([link](http://ieeedsc.org/2023/))</li>
-  <li>Special Track Chair, BESC 2023 ([link](http://besc-conf.org/2023/conference-committee))</li>
-  <li>Guest Editor, Computing: Special issue on Link Prediction in Complex Networks ([link](https://www.springer.com/journal/607/updates/23377866))</li>
-  <li>Proceeding Chair, ADMA 2022 ([link](https://adma2022.uqcloud.net/organisation.html))</li>
-  <li>Publicity Chair, KDD 2022 Workshop on Responsible Recommendations (DS4RRS 2022) ([link](https://rrs2022.github.io/Organization/))</li>
+  <li>Guest Editor, Array: Special issue on Multi-modal learning and its applications in the open environment <a class="inline-link" href="https://www.sciencedirect.com/journal/array/about/call-for-papers">View</a></li>
+  <li>Registration Management Chairs, ADMA 2024 <a class="inline-link" href="https://adma2024.github.io/organisation_committee.html">View</a></li>
+  <li>Workshop Co-Chair, IEEE DSC 2023 <a class="inline-link" href="http://ieeedsc.org/2023/">View</a></li>
+  <li>Special Track Chair, BESC 2023 <a class="inline-link" href="http://besc-conf.org/2023/conference-committee">View</a></li>
+  <li>Guest Editor, Computing: Special issue on Link Prediction in Complex Networks <a class="inline-link" href="https://www.springer.com/journal/607/updates/23377866">View</a></li>
+  <li>Proceeding Chair, ADMA 2022 <a class="inline-link" href="https://adma2022.uqcloud.net/organisation.html">View</a></li>
+  <li>Publicity Chair, KDD 2022 Workshop on Responsible Recommendations (DS4RRS 2022) <a class="inline-link" href="https://rrs2022.github.io/Organization/">View</a></li>
 </ul>
 
 ## Invited Talks & External Recognition
