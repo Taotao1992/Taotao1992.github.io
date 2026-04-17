@@ -7,7 +7,6 @@ title: Home
   <img class="avatar" src="/assets/img/avatar.jpg" alt="Taotao Cai" />
   <div class="hero-main">
     <h1 style="margin:0 0 10px 0;">Dr. Taotao Cai</h1>
-    <div class="subtitle">Senior Lecturer (Level C) in Computing · Program Director, Master of Cyber Security · UniSQ</div>
 
 <div class="card list-tight">
   <strong>Contact & Links</strong>
@@ -20,20 +19,6 @@ title: Home
 </div>
 
   </div>
-</div>
-
-<div class="kpi-grid">
-  <div class="kpi"><div class="num">$1M+</div><div class="lab">2025-2026 funded project footprint</div></div>
-  <div class="kpi"><div class="num">30+</div><div class="lab">Peer-reviewed publications</div></div>
-  <div class="kpi"><div class="num">4</div><div class="lab">ESI Highly Cited Papers</div></div>
-  <div class="kpi"><div class="num">5</div><div class="lab">International patents</div></div>
-  <div class="kpi"><div class="num">6+8</div><div class="lab">Current PhD + Master's supervision</div></div>
-</div>
-
-<div class="spotlight">
-  <strong>Current Focus:</strong>
-  <p>I lead research at the intersection of graph learning, trustworthy AI, and real-world decision systems, with active translation pipelines in construction safety, energy systems, and intelligent transportation.</p>
-  <p>As Lead CI of AEA Ignite Round 2 (IG250200014), I am building SafeBuild AI - a domain-adaptive LLM pathway that targets practical TRL uplift from research prototypes to deployable industry modules.</p>
 </div>
 
 ## Profile
@@ -80,29 +65,6 @@ He completed his PhD in Computer Science across The University of Western Austra
 
 - **[2025] Pilot Research Support Scheme (UniSQ ECR Funding)** — $10,000
 - **[2024] Fake News Detection Research (UniSQ Collaboration Grants)** — $4,000
-
-## Leadership & Service Snapshot
-
-<div class="two-col">
-  <div class="showcase-card">
-    <h3>Academic Leadership</h3>
-    <ul class="timeline">
-      <li>Program Director, Master of Cyber Security (MCYS)</li>
-      <li>HDR Coordinator, School of MPC (2025)</li>
-      <li>Major Convenor (Data Science and AI), School of MPC (2024-2025)</li>
-      <li>End-to-end curriculum design leadership for AI-centric courses</li>
-    </ul>
-  </div>
-  <div class="showcase-card">
-    <h3>Research Esteem</h3>
-    <ul class="timeline">
-      <li>Multiple CORE A* / CCF-A outputs in top venues</li>
-      <li>Information Systems 50th Anniversary influential paper selection</li>
-      <li>Guest editor, program committee, and invited talk engagements</li>
-      <li>Cross-institution collaborations with academia and industry partners</li>
-    </ul>
-  </div>
-</div>
 
 ## News (recent)
 
