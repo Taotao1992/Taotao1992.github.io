@@ -4,7 +4,36 @@ title: News
 permalink: /news/
 ---
 
-# News!
+# News
+
+<div class="section-intro">
+  <h2>Research & Leadership Updates</h2>
+  <p>Milestones across publications, grants, student outcomes, academic leadership, and external engagement.</p>
+  <div class="chip-row">
+    <span class="chip">Grants</span>
+    <span class="chip">Publications</span>
+    <span class="chip">Awards</span>
+    <span class="chip">Invited Talks</span>
+  </div>
+</div>
+
+<div class="two-col">
+  <div class="showcase-card">
+    <h3>Recent Highlights</h3>
+    <ul class="timeline">
+      <li>AEA Ignite Round 2 Lead CI project funded (IG250200014, AUD 549,886)</li>
+      <li>Paper selected for Information Systems 50th Anniversary influential list</li>
+      <li>Multiple top-tier accepts in IEEE TSC, IEEE TGRS, and CORE A* venues</li>
+      <li>Promotion to Senior Lecturer and continued program leadership expansion</li>
+    </ul>
+  </div>
+  <div class="showcase-card">
+    <h3>Scope of Updates</h3>
+    <p>This page records both formal scholarly milestones and community-facing achievements, including student supervision successes and research translation outcomes.</p>
+  </div>
+</div>
+
+## Archive
 
 [03/2026] One paper accepted by IEEE Transactions on Services Computing, 2026. (CCF-A, CORE A*)
 

@@ -1,6 +1,12 @@
-title: "Taotao Cai"
-description: "Academic homepage"
+title: "Dr. Taotao Cai"
+description: "Senior Lecturer in Computing | Program Director (MCYS) | AI and Graph Learning"
 url: "https://taotao1992.github.io"
+tagline: "Senior Lecturer (Level C) · Program Director, Master of Cyber Security"
+affiliation: "School of Mathematics, Physics and Computing, University of Southern Queensland"
+email: "taotao.cai@unisq.edu.au"
+scholar_url: "https://scholar.google.com/citations?user=fVUvY0QAAAAJ&hl=zh-CN"
+dblp_url: "https://dblp.org/pid/162/0396.html"
+linkedin_url: "https://www.linkedin.com/in/taotao-cai-24a328140/"
 markdown: kramdown
 kramdown:
   input: GFM

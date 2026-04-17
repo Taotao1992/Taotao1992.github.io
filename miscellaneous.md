@@ -8,7 +8,7 @@ permalink: /miscellaneous/
 
 <div class="section-intro">
   <h2>Life Beyond Research</h2>
-  <p>A quick visual collection of what inspires me, plus selected videos and talks.</p>
+  <p>A small personal corner: stories, visuals, and media that keep creativity alive outside academic work.</p>
   <div class="chip-row">
     <span class="chip">Movies</span>
     <span class="chip">Games</span>

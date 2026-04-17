@@ -8,6 +8,17 @@ permalink: /publications/
 
 <div class="small">(DBLP-style listing; <strong>Taotao Cai</strong> is highlighted.)</div>
 
+<div class="section-intro">
+  <h2>Publication Profile</h2>
+  <p>30+ peer-reviewed outputs with strong representation in CORE A* and high-impact journals, spanning graph learning, trustworthy AI, and applied intelligent systems.</p>
+  <div class="chip-row">
+    <span class="chip">CORE A*</span>
+    <span class="chip">TKDE / ICDE</span>
+    <span class="chip">Graph Learning</span>
+    <span class="chip">Applied AI</span>
+  </div>
+</div>
+
 <h2 class="pub-year">2026</h2>
 <ul class="pub-list">
   <li class="pub">

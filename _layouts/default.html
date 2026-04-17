@@ -10,14 +10,17 @@
   <body>
     <header>
       <div class="header-inner">
-        <div class="site-title"><a class="brand" href="{{ "/" | relative_url }}">{{ site.title }}</a></div>
+        <div class="site-title">
+          <a class="brand" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+          <div class="site-tagline">{{ site.tagline }}</div>
+        </div>
         <nav>
-          <a href="{{ "/" | relative_url }}">Home</a>
-          <a href="{{ "/news/" | relative_url }}">News</a>
-          <a href="{{ "/publications/" | relative_url }}">Publications</a>
-          <a href="{{ "/teaching-supervision/" | relative_url }}">Teaching</a>
-          <a href="{{ "/professional-activities/" | relative_url }}">Service</a>
-          <a href="{{ "/miscellaneous/" | relative_url }}">Misc</a>
+          <a class="{% if page.url == '/' %}active{% endif %}" href="{{ "/" | relative_url }}">Home</a>
+          <a class="{% if page.url contains '/news/' %}active{% endif %}" href="{{ "/news/" | relative_url }}">News</a>
+          <a class="{% if page.url contains '/publications/' %}active{% endif %}" href="{{ "/publications/" | relative_url }}">Publications</a>
+          <a class="{% if page.url contains '/teaching-supervision/' %}active{% endif %}" href="{{ "/teaching-supervision/" | relative_url }}">Teaching</a>
+          <a class="{% if page.url contains '/professional-activities/' %}active{% endif %}" href="{{ "/professional-activities/" | relative_url }}">Service</a>
+          <a class="{% if page.url contains '/miscellaneous/' %}active{% endif %}" href="{{ "/miscellaneous/" | relative_url }}">Misc</a>
         </nav>
       </div>
     </header>
@@ -28,8 +31,13 @@
 
     <footer>
       <div class="footer-inner small">
-        <div>© {{ "now" | date: "%Y" }} {{ site.title }}</div>
-        <div>Hosted on GitHub Pages</div>
+        <div>© {{ "now" | date: "%Y" }} {{ site.title }} · {{ site.affiliation }}</div>
+        <div>
+          <a href="mailto:{{ site.email }}">Email</a> ·
+          <a href="{{ site.scholar_url }}">Google Scholar</a> ·
+          <a href="{{ site.dblp_url }}">DBLP</a> ·
+          <a href="{{ site.linkedin_url }}">LinkedIn</a>
+        </div>
       </div>
     </footer>
 

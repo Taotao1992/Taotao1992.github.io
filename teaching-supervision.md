@@ -8,13 +8,26 @@ permalink: /teaching-supervision/
 
 <div class="section-intro">
   <h2>Teaching Footprint</h2>
-  <p>Blending curriculum design, unit convening, and industry-relevant content across AI, software engineering, data systems, and mobile technologies.</p>
+  <p>Program-level and course-level leadership spanning AI, cybersecurity-aligned computing pathways, software systems, and research training.</p>
   <div class="chip-row">
+    <span class="chip">Program Director (MCYS)</span>
+    <span class="chip">HDR Coordinator</span>
     <span class="chip">Unit Convenor</span>
     <span class="chip">Curriculum Design</span>
     <span class="chip">AI & Data</span>
-    <span class="chip">Software Engineering</span>
+    <span class="chip">Student Success</span>
   </div>
+</div>
+
+## Leadership Roles
+
+<div class="glass">
+  <ul class="timeline">
+    <li><strong>Program Director</strong>, Master of Cyber Security (MCYS), UniSQ</li>
+    <li><strong>HDR Coordinator</strong>, School of Mathematics, Physics and Computing, UniSQ (2025)</li>
+    <li><strong>Major Convenor (Data Science and AI)</strong>, School of MPC, UniSQ (2024-2025)</li>
+    <li><strong>Course Design Lead</strong> for CSC2220 (Artificial Intelligence) with project-based, research-embedded curriculum</li>
+  </ul>
 </div>
 
 ## Academic Teaching

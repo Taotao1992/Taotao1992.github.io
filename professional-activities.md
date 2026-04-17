@@ -8,7 +8,7 @@ permalink: /professional-activities/
 
 <div class="section-intro">
   <h2>Academic Service</h2>
-  <p>Supporting the community through journal editorial work, conference committees, peer review, and organization roles.</p>
+  <p>Contributing to the global research community through editorial service, peer review, conference leadership, invited talks, and public engagement.</p>
   <div class="chip-row">
     <span class="chip">Associate Editor</span>
     <span class="chip">Meta Reviewer</span>
@@ -56,4 +56,13 @@ permalink: /professional-activities/
   <li>Guest Editor, Computing: Special issue on Link Prediction in Complex Networks ([link](https://www.springer.com/journal/607/updates/23377866))</li>
   <li>Proceeding Chair, ADMA 2022 ([link](https://adma2022.uqcloud.net/organisation.html))</li>
   <li>Publicity Chair, KDD 2022 Workshop on Responsible Recommendations (DS4RRS 2022) ([link](https://rrs2022.github.io/Organization/))</li>
+</ul>
+
+## Invited Talks & External Recognition
+
+<ul class="timeline">
+  <li>Keynote, QUT Digital Media Research Centre (2023)</li>
+  <li>Invited speaker, AIBDF 2024 and ACSW 2024</li>
+  <li>Invited talks at Tianjin University (2023) and industry partner YJ Building Evolution (2025)</li>
+  <li>Featured by UniSQ and external media for fake-news detection and social reconnection research (2023)</li>
 </ul>
