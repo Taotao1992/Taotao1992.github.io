@@ -119,6 +119,23 @@ ul.news li::before{content:"•";position:absolute;left:0;color:var(--muted)}
   gap:14px;
   margin:12px 0 22px;
 }
+
+/* Teaching page: 2-column split (primary + stacked secondary) */
+.teaching-grid{
+  display:grid;
+  grid-template-columns:1.15fr 1fr;
+  gap:14px;
+  margin:12px 0 22px;
+  align-items:start;
+}
+.teaching-col{
+  display:flex;
+  flex-direction:column;
+  gap:14px;
+}
+@media (max-width: 760px){
+  .teaching-grid{grid-template-columns:1fr}
+}
 .showcase-card{
   position:relative;
   padding:14px 14px 12px;

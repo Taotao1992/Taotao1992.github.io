@@ -32,11 +32,12 @@ permalink: /teaching-supervision/
 
 ## Academic Teaching
 
-<div class="showcase-grid">
+<div class="teaching-grid">
   <div class="showcase-card">
-    <h3>UniSQ</h3>
+    <h3>University of Southern Queensland (UniSQ)</h3>
     <ul class="timeline">
       <li>CSC2220 — Artificial Intelligence <span class="small">(Curriculum Designing, Lecturer, Unit Convenor)</span></li>
+      <li>CSC6202 — Natural Language Processing: Techniques and Applications <span class="small">(Lecturer, Unit Convenor)</span></li>
       <li>CSC1410 — Software Engineering Foundations <span class="small">(Lecturer, Unit Convenor)</span></li>
       <li>CSC8710 — Software Design and Modelling <span class="small">(Lecturer, Unit Convenor)</span></li>
       <li>CSC6204 — Information Retrieval and Knowledge Management <span class="small">(Co-Curriculum Designing)</span></li>
@@ -44,26 +45,28 @@ permalink: /teaching-supervision/
       <li>CSC3420 — Mobile Internet Technology <span class="small">(Lecturer, Unit Convenor)</span></li>
     </ul>
   </div>
-  <div class="showcase-card">
-    <h3>Macquarie University</h3>
-    <ul class="timeline">
-      <li>BUSA2020 — Fundamentals of Business Analytics <span class="small">(Adjunct Lecturer)</span></li>
-      <li>COMP2350/6350 — Database Systems <span class="small">(Tutor)</span></li>
-    </ul>
-  </div>
-  <div class="showcase-card">
-    <h3>Deakin University</h3>
-    <ul class="timeline">
-      <li>SIT722 — Database and Information Retrieval <span class="small">(Guest Lecturer & Tutor)</span></li>
-      <li>SIT744 — Practical Machine Learning for Data Science <span class="small">(Guest Lecturer & Tutor; OSI: 100%)</span></li>
-    </ul>
-  </div>
-  <div class="showcase-card">
-    <h3>The University of Western Australia</h3>
-    <ul class="timeline">
-      <li>CITS1402 — Relational Database Management Systems <span class="small">(Tutor, 2018 S2)</span></li>
-      <li>CITS1402 — Relational Database Management Systems <span class="small">(Tutor, 2017 S2)</span></li>
-    </ul>
+  <div class="teaching-col">
+    <div class="showcase-card">
+      <h3>Macquarie University</h3>
+      <ul class="timeline">
+        <li>BUSA2020 — Fundamentals of Business Analytics <span class="small">(Adjunct Lecturer)</span></li>
+        <li>COMP2350/6350 — Database Systems <span class="small">(Tutor)</span></li>
+      </ul>
+    </div>
+    <div class="showcase-card">
+      <h3>Deakin University</h3>
+      <ul class="timeline">
+        <li>SIT722 — Database and Information Retrieval <span class="small">(Guest Lecturer & Tutor)</span></li>
+        <li>SIT744 — Practical Machine Learning for Data Science <span class="small">(Guest Lecturer & Tutor; OSI: 100%)</span></li>
+      </ul>
+    </div>
+    <div class="showcase-card">
+      <h3>The University of Western Australia</h3>
+      <ul class="timeline">
+        <li>CITS1402 — Relational Database Management Systems <span class="small">(Tutor, 2018 S2)</span></li>
+        <li>CITS1402 — Relational Database Management Systems <span class="small">(Tutor, 2017 S2)</span></li>
+      </ul>
+    </div>
   </div>
 </div>
 
