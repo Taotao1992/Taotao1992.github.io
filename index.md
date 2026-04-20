@@ -25,7 +25,7 @@ title: Home
 
 Dr. Taotao Cai is a Senior Lecturer in Computing at the University of Southern Queensland (UniSQ), Program Director of the Master of Cyber Security, and an Honorary Lecturer at Macquarie University. His recent leadership responsibilities also include HDR coordination and major convenorship in Data Science and AI.
 
-He completed his PhD in Computer Science across The University of Western Australia and Deakin University, after an M.Phil. in Computer Science from Shenzhen University. Before joining UniSQ, he served as an Associate Research Fellow at Deakin University and Postdoctoral Research Fellow at Macquarie University.
+He started his fully funded PhD in Computer Science at The University of Western Australia in January 2017 and transferred to Deakin University in March 2019 following his principal supervisor’s move. He completed his PhD at Deakin in November 2020. He also holds an M.Phil. in Computer Science from Shenzhen University. Before joining UniSQ, he worked as an Associate Research Fellow at Deakin University and a Postdoctoral Research Fellow at Macquarie University.
 
 ## Research Interests
 
