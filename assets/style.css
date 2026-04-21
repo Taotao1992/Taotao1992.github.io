@@ -157,6 +157,15 @@ ul.news li::before{content:"•";position:absolute;left:0;color:var(--muted)}
   box-shadow:0 12px 28px rgba(17,24,39,0.1);
   border-color:#c7d2fe;
 }
+.showcase-card-featured{
+  background:
+    radial-gradient(circle at top right, rgba(191,219,254,0.42), transparent 34%),
+    linear-gradient(135deg, rgba(239,246,255,0.96), rgba(245,243,255,0.98));
+  border-color:#bfd8ff;
+}
+.showcase-card-featured::before{
+  background:linear-gradient(90deg,#0284c7,#7c3aed);
+}
 .showcase-card h3{margin:0 0 8px 0;font-size:16px}
 .showcase-card p{margin:0;color:#4b5563}
 
