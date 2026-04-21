@@ -19,6 +19,30 @@ permalink: /teaching-supervision/
   </div>
 </div>
 
+## Featured Build
+
+<div class="spotlight">
+  <strong>CSC2220 Artificial Intelligence</strong>
+  <p>
+    A course-linked interactive website I created with Codex to help students explore the history of AI,
+    from perceptrons and backpropagation to transformers, LLMs, agents, harness engineering, and world models.
+  </p>
+  <p>
+    It includes a detailed AI timeline, curated papers, projects, videos, and frontier system notes covering
+    topics such as OpenClaw, Cursor, Codex, Claude Code, Happy Oyster, and the emerging world-model direction.
+  </p>
+  <div class="chip-row">
+    <span class="chip">AI History</span>
+    <span class="chip">Interactive</span>
+    <span class="chip">CSC2220</span>
+    <span class="chip">Codex-built</span>
+  </div>
+  <p>
+    <a class="inline-link" href="https://taotao1992.github.io/ai-evolution-atlas/" target="_blank" rel="noopener noreferrer">Open site →</a>
+    <a class="inline-link" href="https://github.com/Taotao1992/ai-evolution-atlas" target="_blank" rel="noopener noreferrer">GitHub →</a>
+  </p>
+</div>
+
 ## Leadership Roles
 
 <div class="glass">
