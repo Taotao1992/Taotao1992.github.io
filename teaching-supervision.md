@@ -19,6 +19,18 @@ permalink: /teaching-supervision/
   </div>
 </div>
 
+
+## Leadership Roles
+
+<div class="glass">
+  <ul class="timeline">
+    <li><strong>Program Director</strong>, Master of Cyber Security (MCYS), UniSQ</li>
+    <li><strong>HDR Coordinator</strong>, School of Mathematics, Physics and Computing, UniSQ (2025)</li>
+    <li><strong>Major Convenor (Data Science and AI)</strong>, School of MPC, UniSQ (2024-2025)</li>
+    <li><strong>Course Design Lead</strong> for CSC2220 (Artificial Intelligence) with project-based, research-embedded curriculum</li>
+  </ul>
+</div>
+
 ## Featured Build
 
 <div class="spotlight">
@@ -41,17 +53,6 @@ permalink: /teaching-supervision/
     <a class="inline-link" href="https://taotao1992.github.io/ai-evolution-atlas/" target="_blank" rel="noopener noreferrer">Open site →</a>
     <a class="inline-link" href="https://github.com/Taotao1992/ai-evolution-atlas" target="_blank" rel="noopener noreferrer">GitHub →</a>
   </p>
-</div>
-
-## Leadership Roles
-
-<div class="glass">
-  <ul class="timeline">
-    <li><strong>Program Director</strong>, Master of Cyber Security (MCYS), UniSQ</li>
-    <li><strong>HDR Coordinator</strong>, School of Mathematics, Physics and Computing, UniSQ (2025)</li>
-    <li><strong>Major Convenor (Data Science and AI)</strong>, School of MPC, UniSQ (2024-2025)</li>
-    <li><strong>Course Design Lead</strong> for CSC2220 (Artificial Intelligence) with project-based, research-embedded curriculum</li>
-  </ul>
 </div>
 
 ## Academic Teaching
