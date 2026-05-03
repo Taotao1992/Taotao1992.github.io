@@ -4,11 +4,26 @@ title: Home
 ---
 
 <div class="hero">
-  <img class="avatar" src="/assets/img/avatar.jpg" alt="Taotao Cai" />
+  <div class="hero-profile">
+    <img class="avatar" src="/assets/img/avatar.jpg" alt="Taotao Cai" />
+  </div>
   <div class="hero-main">
-    <h1 style="margin:0 0 10px 0;">Dr. Taotao Cai</h1>
+    <div class="hero-copy">
+      <div class="hero-kicker">Senior Lecturer in Computing · UniSQ</div>
+      <h1 class="hero-title">Dr. Taotao Cai</h1>
+      <p class="hero-summary">
+        Artificial intelligence, graph learning, and trustworthy AI for real-world systems,
+        with a strong focus on translational, industry-engaged research.
+      </p>
+      <div class="hero-highlights">
+        <span class="hero-pill">Graph Learning</span>
+        <span class="hero-pill">Trustworthy AI</span>
+        <span class="hero-pill">Industry Collaboration</span>
+        <span class="hero-pill">Sustainable Systems</span>
+      </div>
+    </div>
 
-<div class="card list-tight">
+<div class="card list-tight hero-contact">
   <strong>Contact & Links</strong>
   <ul>
     <li>Email: <a href="mailto:taotao.cai@unisq.edu.au">taotao.cai@unisq.edu.au</a></li>

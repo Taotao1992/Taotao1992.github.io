@@ -53,9 +53,83 @@ main h1{margin:0 0 10px 0;font-size:19px;line-height:1.35;font-weight:720}
 main h2{margin-top:20px;font-size:18px;line-height:1.35}
 main h3{margin-top:16px;font-size:16px;color:var(--fg)}
 
-.hero{display:flex;gap:18px;align-items:flex-start;flex-wrap:wrap}
-.avatar{width:140px;height:140px;border-radius:14px;object-fit:cover;object-position:center 18%;border:1px solid var(--border);background:#f3f4f6}
-.hero-main{flex:1;min-width:260px}
+.hero{
+  display:grid;
+  grid-template-columns:minmax(168px, 190px) minmax(0, 1fr);
+  gap:24px;
+  align-items:start;
+  margin-bottom:18px;
+}
+.hero-profile{
+  padding:10px;
+  border-radius:24px;
+  border:1px solid #d5e2f3;
+  background:
+    radial-gradient(circle at top center, rgba(219,234,254,0.45), transparent 44%),
+    linear-gradient(180deg, #ffffff, #f8fbff);
+  box-shadow:0 18px 42px rgba(15,23,42,0.08);
+}
+.avatar{
+  display:block;
+  width:100%;
+  aspect-ratio:5 / 6.6;
+  border-radius:18px;
+  object-fit:contain;
+  object-position:center center;
+  border:1px solid rgba(148,163,184,0.22);
+  background:#ffffff;
+}
+.hero-main{
+  min-width:260px;
+  display:flex;
+  flex-direction:column;
+  gap:16px;
+}
+.hero-copy{
+  padding-top:8px;
+}
+.hero-kicker{
+  margin-bottom:8px;
+  font-size:12px;
+  font-weight:750;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+  color:#2563eb;
+}
+.hero-title{
+  margin:0 0 10px 0;
+  font-size:42px;
+  line-height:1.05;
+  letter-spacing:-0.03em;
+}
+.hero-summary{
+  max-width:62ch;
+  margin:0;
+  color:#475569;
+  font-size:16px;
+}
+.hero-highlights{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-top:14px;
+}
+.hero-pill{
+  display:inline-block;
+  padding:5px 10px;
+  border-radius:999px;
+  border:1px solid #d6e3f5;
+  background:#f8fbff;
+  color:#1e3a8a;
+  font-size:12px;
+  font-weight:700;
+  letter-spacing:0.01em;
+}
+.hero-contact{
+  margin:0;
+  border-color:#d7e4f6;
+  box-shadow:0 14px 30px rgba(15,23,42,0.05);
+}
 
 a{color:var(--link)}
 .subtitle{color:var(--muted);margin-top:6px}
@@ -65,6 +139,23 @@ a{color:var(--link)}
 footer{border-top:1px solid var(--border);margin-top:34px}
 .footer-inner{max-width:var(--max);margin:0 auto;padding:18px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
 hr{border:0;border-top:1px solid var(--border);margin:24px 0}
+
+@media (max-width: 760px){
+  .hero{
+    grid-template-columns:1fr;
+    gap:18px;
+  }
+  .hero-profile{
+    max-width:210px;
+    margin:0 auto;
+  }
+  .hero-copy{
+    padding-top:0;
+  }
+  .hero-title{
+    font-size:32px;
+  }
+}
 
 /* nicer lists for “news”-style bullets */
 ul.news{list-style:none;padding-left:0}
