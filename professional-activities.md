@@ -61,6 +61,7 @@ permalink: /professional-activities/
 ## Invited Talks & External Recognition
 
 <ul class="timeline">
+  <li>Invited talk, Sunnybank Chamber of Commerce (29 April 2026): <em>AI Is Changing Business: What Queensland SMEs Need to Know Now</em> <a class="inline-link" href="/assets/slides/qld-sme-ai-2026-invited-talk.pdf" download>Download slides</a> <a class="inline-link" href="/assets/img/qld-sme-ai-2026-poster.jpg" target="_blank" rel="noopener noreferrer">Poster</a></li>
   <li>Keynote, QUT Digital Media Research Centre (2023)</li>
   <li>Invited speaker, AIBDF 2024 and ACSW 2024</li>
   <li>Invited talks at Tianjin University (2023) and industry partner YJ Building Evolution (2025)</li>

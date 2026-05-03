@@ -100,6 +100,36 @@ He commenced his fully funded PhD in Computer Science at The University of Weste
 
 <div class="small"><a href="/news/">See all news →</a></div>
 
+## Recent Invited Talk
+
+<div class="talk-spotlight">
+  <div class="talk-poster-wrap">
+    <img class="talk-poster" src="/assets/img/qld-sme-ai-2026-poster.jpg" alt="Sunnybank Chamber of Commerce invited talk poster" />
+  </div>
+  <div class="talk-copy">
+    <div class="hero-kicker">Community & Industry Engagement</div>
+    <h3>Sunnybank Chamber of Commerce Invited Talk</h3>
+    <p>
+      On <strong>29 April 2026</strong>, I delivered an invited talk for the
+      <strong>Sunnybank Chamber of Commerce</strong> on
+      <em>AI Is Changing Business: What Queensland SMEs Need to Know Now</em>.
+    </p>
+    <p>
+      The session covered the current AI landscape, multimodal AI, world models,
+      embodied intelligence, practical SME adoption pathways, and key governance and risk considerations.
+    </p>
+    <div class="talk-meta">
+      <span class="hero-pill">Invited Talk</span>
+      <span class="hero-pill">SMEs</span>
+      <span class="hero-pill">Queensland Industry</span>
+      <span class="hero-pill">29 Apr 2026</span>
+    </div>
+    <div class="talk-actions">
+      <a class="inline-link inline-link-strong" href="/assets/slides/qld-sme-ai-2026-invited-talk.pdf" download>Download slides (PDF)</a>
+      <a class="inline-link" href="/assets/img/qld-sme-ai-2026-poster.jpg" target="_blank" rel="noopener noreferrer">View poster</a>
+    </div>
+  </div>
+</div>
 
 ## Explore More
 

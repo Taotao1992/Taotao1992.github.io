@@ -35,6 +35,8 @@ permalink: /news/
 
 ## Archive
 
+[04/2026] Delivered an invited talk for the Sunnybank Chamber of Commerce titled <em>AI Is Changing Business: What Queensland SMEs Need to Know Now</em>, focused on AI trends, business productivity, practical SME adoption, and governance. <a class="inline-link" href="/assets/slides/qld-sme-ai-2026-invited-talk.pdf" download>Download slides</a>
+
 [03/2026] One paper accepted by IEEE Transactions on Services Computing, 2026. (CCF-A, CORE A*)
 
 [02/2026] One paper accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS). (SCI Q1, Top-tier). Congratulations to Penghui!
