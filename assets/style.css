@@ -72,9 +72,9 @@ main h3{margin-top:16px;font-size:16px;color:var(--fg)}
 .avatar{
   display:block;
   width:100%;
-  aspect-ratio:5 / 6.6;
+  aspect-ratio:1 / 1;
   border-radius:18px;
-  object-fit:contain;
+  object-fit:cover;
   object-position:center center;
   border:1px solid rgba(148,163,184,0.22);
   background:#ffffff;
@@ -136,7 +136,66 @@ a{color:var(--link)}
 .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 16px;margin:16px 0;box-shadow:0 10px 30px rgba(15,23,42,0.04)}
 .list-tight ul{margin:8px 0 0 18px}
 .small{color:var(--muted);font-size:13px}
-footer{border-top:1px solid var(--border);margin-top:34px}
+footer{border-top:1px solid var(--border);margin-top:34px;background:rgba(255,255,255,0.66)}
+.visitor-band{
+  max-width:var(--max);
+  margin:0 auto;
+  padding:18px 18px 6px;
+  display:grid;
+  grid-template-columns:minmax(220px, 1fr) minmax(240px, 420px);
+  gap:18px;
+  align-items:center;
+}
+.visitor-copy{
+  display:grid;
+  gap:2px;
+  color:#334155;
+}
+.visitor-copy strong{
+  font-size:15px;
+  color:var(--fg);
+}
+.visitor-eyebrow{
+  font-size:11px;
+  font-weight:800;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+  color:#0f766e;
+}
+.visitor-privacy{
+  font-size:12px;
+  color:#64748b;
+}
+.visitor-map{
+  width:100%;
+  height:auto;
+  justify-self:end;
+}
+.map-route{
+  fill:none;
+  stroke:#cbd5e1;
+  stroke-width:1.5;
+  stroke-linecap:round;
+  stroke-dasharray:3 8;
+}
+.map-route-soft{
+  stroke:#dbeafe;
+}
+.map-dot{
+  fill:#94a3b8;
+  stroke:#ffffff;
+  stroke-width:2;
+  transform-box:fill-box;
+  transform-origin:center;
+  transition:fill .2s ease, transform .2s ease;
+}
+html[data-visitor-region="americas"] .dot-americas,
+html[data-visitor-region="europe"] .dot-europe,
+html[data-visitor-region="asia"] .dot-asia,
+html[data-visitor-region="oceania"] .dot-oceania{
+  fill:#0f766e;
+  transform:scale(1.45);
+}
 .footer-inner{max-width:var(--max);margin:0 auto;padding:18px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
 hr{border:0;border-top:1px solid var(--border);margin:24px 0}
 
@@ -154,6 +213,14 @@ hr{border:0;border-top:1px solid var(--border);margin:24px 0}
   }
   .hero-title{
     font-size:32px;
+  }
+  .visitor-band{
+    grid-template-columns:1fr;
+    gap:8px;
+  }
+  .visitor-map{
+    justify-self:start;
+    max-width:360px;
   }
 }
 

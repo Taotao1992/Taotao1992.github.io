@@ -30,6 +30,23 @@
     </main>
 
     <footer>
+      <div class="visitor-band" aria-label="Approximate visitor origin">
+        <div class="visitor-copy">
+          <span class="visitor-eyebrow">Visitor Signal</span>
+          <strong>Global research reach</strong>
+          <span id="visitor-origin-label">Current region: detecting locally</span>
+          <span class="visitor-privacy">No IP stored.</span>
+        </div>
+        <svg class="visitor-map" viewBox="0 0 420 150" role="img" aria-labelledby="visitor-map-title">
+          <title id="visitor-map-title">Stylized visitor origin map</title>
+          <path class="map-route" d="M36 86 C96 26 164 38 222 76 S330 122 386 54" />
+          <path class="map-route map-route-soft" d="M58 112 C132 96 158 18 236 42 S314 104 376 98" />
+          <circle class="map-dot dot-americas" cx="78" cy="82" r="5" />
+          <circle class="map-dot dot-europe" cx="202" cy="58" r="5" />
+          <circle class="map-dot dot-asia" cx="286" cy="74" r="5" />
+          <circle class="map-dot dot-oceania" cx="342" cy="112" r="5" />
+        </svg>
+      </div>
       <div class="footer-inner small">
         <div>© {{ "now" | date: "%Y" }} {{ site.title }} · {{ site.affiliation }}</div>
         <div>
@@ -87,6 +104,24 @@
         }
       })();
     </script>
-    {% endif %}
+      {% endif %}
+    <script>
+      (function () {
+        const label = document.getElementById('visitor-origin-label');
+        if (!label || !window.Intl) return;
+
+        const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+        const rules = [
+          { region: 'oceania', test: /^(Australia|Pacific)\//.test(timeZone), text: 'Current region: Australia / Oceania' },
+          { region: 'americas', test: /^America\//.test(timeZone), text: 'Current region: Americas' },
+          { region: 'europe', test: /^(Europe|Africa)\//.test(timeZone), text: 'Current region: Europe / Africa' },
+          { region: 'asia', test: /^(Asia|Indian)\//.test(timeZone), text: 'Current region: Asia' }
+        ];
+        const match = rules.find((rule) => rule.test) || { region: 'global', text: 'Current region: global' };
+
+        document.documentElement.setAttribute('data-visitor-region', match.region);
+        label.textContent = match.text;
+      })();
+    </script>
   </body>
 </html>

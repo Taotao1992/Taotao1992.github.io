@@ -5,7 +5,7 @@ title: Home
 
 <div class="hero">
   <div class="hero-profile">
-    <img class="avatar" src="/assets/img/avatar.jpg" alt="Taotao Cai" />
+    <img class="avatar" src="/assets/img/avatar-cartoon.jpg" alt="Cartoon portrait of Taotao Cai" />
   </div>
   <div class="hero-main">
     <div class="hero-copy">
