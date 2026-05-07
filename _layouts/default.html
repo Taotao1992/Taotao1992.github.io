@@ -37,33 +37,65 @@
           <span id="visitor-origin-label">Current region: detecting locally</span>
           <span class="visitor-privacy">No IP stored.</span>
         </div>
-        <svg class="visitor-map" viewBox="0 0 420 170" role="img" aria-labelledby="visitor-map-title">
-          <title id="visitor-map-title">Small world map showing approximate visitor region</title>
-          <rect class="map-ocean" x="4" y="6" width="412" height="158" rx="18" />
-          <path class="map-grid" d="M76 16 V154 M144 16 V154 M212 16 V154 M280 16 V154 M348 16 V154 M16 50 H404 M16 86 H404 M16 122 H404" />
-          <path class="map-land" d="M101 33 C82 29 62 36 47 51 C35 63 35 78 48 88 C61 98 81 88 91 99 C101 110 111 117 123 108 C137 97 128 80 139 69 C150 58 133 39 115 43 C111 37 107 34 101 33 Z" />
-          <path class="map-land" d="M127 94 C142 103 150 120 145 137 C141 151 129 160 119 149 C109 136 109 113 121 100 C123 97 124 95 127 94 Z" />
-          <path class="map-land map-land-soft" d="M142 22 C157 18 174 21 183 31 C172 40 150 39 139 30 C136 27 138 24 142 22 Z" />
-          <path class="map-land" d="M209 49 C194 46 181 53 180 66 C190 76 207 72 216 60 C219 55 216 51 209 49 Z" />
-          <path class="map-land" d="M221 70 C203 82 200 104 211 126 C222 148 244 147 253 124 C261 104 249 83 233 74 C229 71 225 70 221 70 Z" />
-          <path class="map-land" d="M246 45 C275 34 322 42 348 60 C365 72 360 91 340 98 C322 104 309 92 291 98 C272 104 252 94 242 80 C234 68 232 53 246 45 Z" />
-          <path class="map-land map-land-soft" d="M295 99 C309 101 320 107 326 118 C312 121 299 115 289 105 C287 102 290 99 295 99 Z" />
-          <path class="map-land" d="M326 116 C346 107 367 114 374 129 C361 142 335 141 322 130 C317 125 319 119 326 116 Z" />
+        <svg class="visitor-map" viewBox="0 0 420 190" role="img" aria-labelledby="visitor-map-title">
+          <title id="visitor-map-title">Small globe showing approximate visitor region</title>
+          <defs>
+            <radialGradient id="globe-ocean-gradient" cx="36%" cy="28%" r="76%">
+              <stop offset="0%" stop-color="#7dd3fc" />
+              <stop offset="45%" stop-color="#0ea5e9" />
+              <stop offset="100%" stop-color="#075985" />
+            </radialGradient>
+            <radialGradient id="globe-shade-gradient" cx="35%" cy="28%" r="82%">
+              <stop offset="0%" stop-color="#ffffff" stop-opacity="0.28" />
+              <stop offset="48%" stop-color="#ffffff" stop-opacity="0" />
+              <stop offset="100%" stop-color="#020617" stop-opacity="0.42" />
+            </radialGradient>
+            <clipPath id="globe-clip">
+              <circle cx="308" cy="95" r="72" />
+            </clipPath>
+          </defs>
+          <rect class="space-panel" x="6" y="8" width="408" height="174" rx="20" />
+          <circle class="space-star" cx="46" cy="42" r="1.3" />
+          <circle class="space-star" cx="86" cy="132" r="1.1" />
+          <circle class="space-star" cx="150" cy="58" r="1.5" />
+          <circle class="space-star" cx="196" cy="150" r="1" />
+          <circle class="space-star" cx="384" cy="44" r="1.2" />
+          <circle class="globe-halo" cx="308" cy="95" r="82" />
+          <g class="globe">
+            <circle class="globe-ocean" cx="308" cy="95" r="72" />
+            <g clip-path="url(#globe-clip)">
+              <ellipse class="globe-grid" cx="308" cy="95" rx="67" ry="18" />
+              <ellipse class="globe-grid" cx="308" cy="95" rx="67" ry="39" />
+              <ellipse class="globe-grid" cx="308" cy="95" rx="25" ry="72" />
+              <ellipse class="globe-grid" cx="308" cy="95" rx="49" ry="72" />
+              <path class="globe-land" d="M264 47 C278 36 302 37 319 48 C330 55 343 55 354 66 C365 78 357 91 342 92 C329 93 320 82 307 86 C290 91 277 84 271 72 C266 62 255 56 264 47 Z" />
+              <path class="globe-land" d="M279 81 C293 88 301 101 298 117 C295 134 281 145 270 135 C259 124 258 104 267 91 C270 86 274 83 279 81 Z" />
+              <path class="globe-land globe-land-soft" d="M332 93 C347 94 360 103 363 117 C349 121 334 115 325 103 C322 98 326 94 332 93 Z" />
+              <path class="globe-land" d="M348 124 C365 116 381 121 388 136 C374 149 351 147 341 135 C337 130 341 126 348 124 Z" />
+              <path class="globe-land globe-land-soft" d="M245 73 C255 68 268 71 272 82 C264 92 248 91 239 81 C237 77 240 74 245 73 Z" />
+              <path class="globe-land" d="M251 101 C263 110 269 127 264 142 C256 140 248 130 244 116 C241 107 244 101 251 101 Z" />
+              <path class="globe-land globe-land-soft" d="M295 31 C305 27 317 29 325 37 C315 43 299 42 291 35 C289 33 291 31 295 31 Z" />
+              <path class="cloud-band" d="M237 62 C260 49 289 47 318 54 C341 59 360 58 376 49" />
+              <path class="cloud-band cloud-band-lower" d="M248 132 C274 120 304 119 331 128 C351 135 368 134 386 124" />
+            </g>
+            <circle class="globe-shade" cx="308" cy="95" r="72" />
+            <circle class="globe-rim" cx="308" cy="95" r="72" />
+          </g>
           <g class="map-marker dot-americas">
-            <circle class="map-pulse" cx="82" cy="72" r="11" />
-            <circle class="map-dot" cx="82" cy="72" r="5" />
+            <circle class="map-pulse" cx="249" cy="79" r="11" />
+            <circle class="map-dot" cx="249" cy="79" r="5" />
           </g>
           <g class="map-marker dot-europe">
-            <circle class="map-pulse" cx="204" cy="62" r="11" />
-            <circle class="map-dot" cx="204" cy="62" r="5" />
+            <circle class="map-pulse" cx="280" cy="70" r="11" />
+            <circle class="map-dot" cx="280" cy="70" r="5" />
           </g>
           <g class="map-marker dot-asia">
-            <circle class="map-pulse" cx="292" cy="76" r="11" />
-            <circle class="map-dot" cx="292" cy="76" r="5" />
+            <circle class="map-pulse" cx="333" cy="76" r="11" />
+            <circle class="map-dot" cx="333" cy="76" r="5" />
           </g>
           <g class="map-marker dot-oceania">
-            <circle class="map-pulse" cx="346" cy="127" r="11" />
-            <circle class="map-dot" cx="346" cy="127" r="5" />
+            <circle class="map-pulse" cx="360" cy="133" r="11" />
+            <circle class="map-dot" cx="360" cy="133" r="5" />
           </g>
         </svg>
       </div>

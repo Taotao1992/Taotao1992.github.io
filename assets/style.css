@@ -172,26 +172,54 @@ footer{border-top:1px solid var(--border);margin-top:34px;background:rgba(255,25
   justify-self:end;
   max-width:430px;
 }
-.map-ocean{
-  fill:#f8fafc;
+.space-panel{
+  fill:#06111f;
   stroke:#dbeafe;
   stroke-width:1;
 }
-.map-grid{
-  fill:none;
-  stroke:#e2e8f0;
-  stroke-width:0.8;
-  stroke-linecap:round;
-  opacity:0.8;
+.space-star{
+  fill:#e0f2fe;
+  opacity:0.78;
 }
-.map-land{
-  fill:#cbd5e1;
-  stroke:#ffffff;
-  stroke-width:1.4;
+.globe-halo{
+  fill:#38bdf8;
+  opacity:0.12;
+}
+.globe-ocean{
+  fill:url(#globe-ocean-gradient);
+}
+.globe-grid{
+  fill:none;
+  stroke:#bae6fd;
+  stroke-width:0.8;
+  opacity:0.42;
+}
+.globe-land{
+  fill:#70b66d;
+  stroke:#eafff1;
+  stroke-width:1;
   stroke-linejoin:round;
 }
-.map-land-soft{
-  fill:#dbe4ef;
+.globe-land-soft{
+  fill:#9dd089;
+}
+.cloud-band{
+  fill:none;
+  stroke:#ffffff;
+  stroke-width:5;
+  stroke-linecap:round;
+  opacity:0.36;
+}
+.cloud-band-lower{
+  opacity:0.28;
+}
+.globe-shade{
+  fill:url(#globe-shade-gradient);
+}
+.globe-rim{
+  fill:none;
+  stroke:#dff7ff;
+  stroke-width:1.5;
 }
 .map-marker{
   transform-box:fill-box;
@@ -199,11 +227,11 @@ footer{border-top:1px solid var(--border);margin-top:34px;background:rgba(255,25
   transition:transform .2s ease;
 }
 .map-pulse{
-  fill:#0f766e;
+  fill:#facc15;
   opacity:0;
 }
 .map-dot{
-  fill:#94a3b8;
+  fill:#e2e8f0;
   stroke:#ffffff;
   stroke-width:2;
   transition:fill .2s ease, transform .2s ease;
@@ -218,13 +246,13 @@ html[data-visitor-region="americas"] .dot-americas .map-dot,
 html[data-visitor-region="europe"] .dot-europe .map-dot,
 html[data-visitor-region="asia"] .dot-asia .map-dot,
 html[data-visitor-region="oceania"] .dot-oceania .map-dot{
-  fill:#0f766e;
+  fill:#facc15;
 }
 html[data-visitor-region="americas"] .dot-americas .map-pulse,
 html[data-visitor-region="europe"] .dot-europe .map-pulse,
 html[data-visitor-region="asia"] .dot-asia .map-pulse,
 html[data-visitor-region="oceania"] .dot-oceania .map-pulse{
-  opacity:0.18;
+  opacity:0.24;
 }
 .footer-inner{max-width:var(--max);margin:0 auto;padding:18px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
 hr{border:0;border-top:1px solid var(--border);margin:24px 0}
