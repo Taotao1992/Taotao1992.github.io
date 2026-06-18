@@ -22,6 +22,11 @@ permalink: /publications/
 <h2 class="pub-year">2026</h2>
 <ul class="pub-list">
   <li class="pub">
+    <span class="authors">Zengjie Chen, Yuxiang Cai, Jingcai Guo, <strong>Taotao Cai</strong>, Jianwei Yin, Zhi Chen.</span>
+    <span class="title">Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction.</span>
+    <span class="venue">ECCV 2026 (CORE A*, CCF-B).</span>
+  </li>
+  <li class="pub">
     <span class="authors">Penghui Niu, Jiashuai She, <strong>Taotao Cai</strong>, Yajuan Zhang, Ping Zhang, Junhua Gu, Jianxin Li.</span>
     <span class="title">MPCM-Net: A multi-scale network that integrates partial attention convolution with Mamba for ground-based cloud image segmentation.</span>
     <span class="venue">IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026 (Top-tier journal in Remote Sensing).</span>
