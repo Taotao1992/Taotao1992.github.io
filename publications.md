@@ -27,6 +27,11 @@ permalink: /publications/
     <span class="venue">ECCV 2026 (CORE A*, CCF-B).</span>
   </li>
   <li class="pub">
+    <span class="authors">Pooya Jafari, Guoping Zhu, Zongmin Zhu, Mark Lynch, <strong>Taotao Cai</strong>, Siqi Huo, Jianping Ren, Guobo Huang, Pingan Song.</span>
+    <span class="title">AI-aided De Novo Molecular Design of Phosphamide for Fire-Retardant Polylactide with Enhanced Integrated Properties.</span>
+    <span class="venue">Polymer Degradation and Stability, 250:112138, 2026. <a class="inline-link" href="https://doi.org/10.1016/j.polymdegradstab.2026.112138">DOI</a></span>
+  </li>
+  <li class="pub">
     <span class="authors">Penghui Niu, Jiashuai She, <strong>Taotao Cai</strong>, Yajuan Zhang, Ping Zhang, Junhua Gu, Jianxin Li.</span>
     <span class="title">MPCM-Net: A multi-scale network that integrates partial attention convolution with Mamba for ground-based cloud image segmentation.</span>
     <span class="venue">IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026 (Top-tier journal in Remote Sensing).</span>
