@@ -12,26 +12,25 @@ title: Home
       <div class="hero-kicker">Senior Lecturer in Computing · UniSQ</div>
       <h1 class="hero-title">Dr. Taotao Cai</h1>
       <p class="hero-summary">
-        I develop graph learning and trustworthy AI for networked decision-making, 
-      now extending to provenance-aware LLM agents and graph-based industrial discovery.
+        I develop graph learning and trustworthy AI for networked decision-making,
+        now extending to provenance-aware LLM agents and graph-based industrial discovery.
       </p>
-   <div class="hero-highlights">
-  <span class="hero-pill">Graph Learning</span>
-  <span class="hero-pill">Trustworthy AI</span>
-  <span class="hero-pill">LLM Agents</span>
-  <span class="hero-pill">Industry Collaboration</span>
-</div>
-
-<div class="card list-tight hero-contact">
-  <strong>Contact & Links</strong>
-  <ul>
-    <li>Email: <a href="mailto:taotao.cai@unisq.edu.au">taotao.cai@unisq.edu.au</a></li>
-    <li>Google Scholar: <a href="https://scholar.google.com/citations?user=fVUvY0QAAAAJ&hl=zh-CN">https://scholar.google.com/citations?user=fVUvY0QAAAAJ</a></li>
-    <li>UniSQ profile: <a href="https://staffprofile.unisq.edu.au/Profile/Taotao-Cai">https://staffprofile.unisq.edu.au/Profile/Taotao-Cai</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/taotao-cai-24a328140/">https://www.linkedin.com/in/taotao-cai-24a328140/</a></li>
-  </ul>
-</div>
-
+      <div class="hero-highlights">
+        <span class="hero-pill">Graph Learning</span>
+        <span class="hero-pill">Trustworthy AI</span>
+        <span class="hero-pill">LLM Agents</span>
+        <span class="hero-pill">Industry Collaboration</span>
+      </div>
+      <div class="card list-tight hero-contact">
+        <strong>Contact &amp; Links</strong>
+        <ul>
+          <li>Email: <a href="mailto:taotao.cai@unisq.edu.au">taotao.cai@unisq.edu.au</a></li>
+          <li>Google Scholar: <a href="https://scholar.google.com/citations?user=fVUvY0QAAAAJ&amp;hl=zh-CN">https://scholar.google.com/citations?user=fVUvY0QAAAAJ</a></li>
+          <li>UniSQ profile: <a href="https://staffprofile.unisq.edu.au/Profile/Taotao-Cai">https://staffprofile.unisq.edu.au/Profile/Taotao-Cai</a></li>
+          <li>LinkedIn: <a href="https://www.linkedin.com/in/taotao-cai-24a328140/">https://www.linkedin.com/in/taotao-cai-24a328140/</a></li>
+        </ul>
+      </div>
+    </div>
   </div>
 </div>
 
