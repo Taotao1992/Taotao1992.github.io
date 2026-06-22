@@ -12,8 +12,8 @@ title: Home
       <div class="hero-kicker">Senior Lecturer in Computing · UniSQ</div>
       <h1 class="hero-title">Dr. Taotao Cai</h1>
       <p class="hero-summary">
-        Artificial intelligence, graph learning, and trustworthy AI for real-world systems,
-        with a strong focus on translational, industry-engaged research.
+        I develop graph learning and trustworthy AI for networked decision-making, 
+      now extending to provenance-aware LLM agents and graph-based industrial discovery.
       </p>
       <div class="hero-highlights">
         <span class="hero-pill">Graph Learning</span>
@@ -44,10 +44,10 @@ He commenced his fully funded PhD in Computer Science at The University of Weste
 
 ## Research Interests
 
-- Foundational graph learning (graph representation learning, graph neural networks, dynamic network reasoning)
-- Trustworthy AI for social and information ecosystems (misinformation mining, influence modeling, robust prediction)
-- AI for sustainable systems (renewable energy, remote sensing, resilient infrastructure, smart construction)
-- AI for intelligent transportation and operational decision support
+- **Graph learning for networked decision-making** (graph representation learning, graph neural networks, influence maximization, information diffusion, dynamic network reasoning)
+- **Trustworthy AI for social and information ecosystems** (misinformation detection, influence modeling, explainable and robust prediction)
+- **Trustworthy, self-improving LLM agents** (provenance- and evidence-aware agents, reliability and auditability, efficient and on-device LLMs)
+- **AI-driven industrial and sustainable systems** (construction safety and compliance, materials discovery, renewable energy, remote sensing, resilient infrastructure, intelligent transportation)
 
 ## Grants & Key Projects
 
