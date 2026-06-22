@@ -43,10 +43,10 @@ He commenced his fully funded PhD in Computer Science at The University of Weste
 
 ## Research Interests
 
-- **Graph learning for networked decision-making** (graph representation learning, graph neural networks, influence maximization, information diffusion, dynamic network reasoning)
-- **Trustworthy AI for social and information ecosystems** (misinformation detection, influence modeling, explainable and robust prediction)
-- **Trustworthy, self-improving LLM agents** (provenance- and evidence-aware agents, reliability and auditability, efficient and on-device LLMs)
-- **AI-driven industrial and sustainable systems** (construction safety and compliance, materials discovery, renewable energy, remote sensing, resilient infrastructure, intelligent transportation)
+- **Graph learning for networked decision-making** (GNNs, influence, diffusion)
+- **Trustworthy AI for social and information ecosystems** (misinformation, robustness)
+- **Self-improving LLM agents** (provenance, reliability, on-device)
+- **AI for industrial and sustainable systems** (construction, energy, transport)
 
 ## Grants & Key Projects
 
