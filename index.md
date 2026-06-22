@@ -15,13 +15,12 @@ title: Home
         I develop graph learning and trustworthy AI for networked decision-making, 
       now extending to provenance-aware LLM agents and graph-based industrial discovery.
       </p>
-      <div class="hero-highlights">
-        <span class="hero-pill">Graph Learning</span>
-        <span class="hero-pill">Trustworthy AI</span>
-        <span class="hero-pill">Industry Collaboration</span>
-        <span class="hero-pill">Sustainable Systems</span>
-      </div>
-    </div>
+   <div class="hero-highlights">
+  <span class="hero-pill">Graph Learning</span>
+  <span class="hero-pill">Trustworthy AI</span>
+  <span class="hero-pill">LLM Agents</span>
+  <span class="hero-pill">Industry Collaboration</span>
+</div>
 
 <div class="card list-tight hero-contact">
   <strong>Contact & Links</strong>
