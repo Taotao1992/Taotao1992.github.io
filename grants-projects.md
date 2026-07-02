@@ -18,10 +18,32 @@ permalink: /grants-projects/
 </div>
 
 <div class="kpi-grid grant-kpis">
-  <div class="kpi"><div class="num">2</div><div class="lab">National Industry PhD awards</div></div>
-  <div class="kpi"><div class="num">$576K</div><div class="lab">Combined value, plus tuition waivers</div></div>
-  <div class="kpi"><div class="num">2026–30</div><div class="lab">Four-year NIPhD program</div></div>
   <div class="kpi"><div class="num">$1.05M+</div><div class="lab">AEA Ignite project portfolio</div></div>
+  <div class="kpi"><div class="num">$549,886</div><div class="lab">Lead CI · SafeBuild AI</div></div>
+  <div class="kpi"><div class="num">2</div><div class="lab">National Industry PhD awards</div></div>
+  <div class="kpi"><div class="num">$576K</div><div class="lab">Combined NIPhD value, plus tuition waivers</div></div>
+</div>
+
+## Australian Economic Accelerator (AEA) Ignite
+
+<div class="grant-stack">
+  <article class="grant-card grant-card-wide">
+    <div class="grant-card-topline"><span>IG250200014 · AEA Ignite Round 2</span><span>Lead Chief Investigator</span></div>
+    <h3>SafeBuild AI: Intelligent Safety and Efficiency for Construction SMEs (2026–2027)</h3>
+    <div class="grant-amount">$549,886 <span>AEA $474,886 + industry $75,000</span></div>
+    <p>Developing an AI-powered safety assurance platform that automates SWMS compliance auditing and generates dynamic safety checklists. The project advances a construction-specific LLM and Proactive Safety Assurance Module from TRL 3 to TRL 5.</p>
+    <div class="small"><a href="https://www.aea.gov.au/news/australia-backs-new-wave-high-impact-research-over-725-million-aea-ignite-grants">Official AEA announcement</a></div>
+    <div class="impact-note">
+      <span class="pill pill-red">High-Impact Recognition</span>
+      <p>Selected as the featured project for Queensland in the Australian Government’s official announcement, which highlighted one representative initiative per state. The release specifically recognised this project’s capacity “to improve construction safety using AI compliance detection.”</p>
+    </div>
+  </article>
+  <article class="grant-card grant-card-wide">
+    <div class="grant-card-topline"><span>IG240100414 · AEA Ignite Round 1</span><span>Chief Investigator · Lead: Dr. Yanming Zhu</span></div>
+    <h3>Intelligent FCAS Agent for Renewable Energy Power Systems (2025–2026)</h3>
+    <div class="grant-amount">$508,442 <span>AEA $429,720 + industry $78,722</span></div>
+    <p>Analysing grid data and predicting frequency fluctuations to optimise power dispatch and battery storage in solar systems, with the goal of improving national-grid stability and supporting a TRL 5 commercialisation pathway.</p>
+  </article>
 </div>
 
 ## National Industry PhD Program
@@ -71,28 +93,6 @@ permalink: /grants-projects/
     <a href="https://www.education.gov.au/national-industry-phd-program/announcements/national-industry-phd-program-round-7-outcomes-announced">Round 7 announcement</a> ·
     <a href="https://www.education.gov.au/download/20477/national-industry-phd-program-round-7-successful-projects/45095/document/pdf">Successful projects</a>
   </div>
-</div>
-
-## Australian Economic Accelerator (AEA) Ignite
-
-<div class="grant-stack">
-  <article class="grant-card grant-card-wide">
-    <div class="grant-card-topline"><span>IG250200014 · AEA Ignite Round 2</span><span>Lead Chief Investigator</span></div>
-    <h3>SafeBuild AI: Intelligent Safety and Efficiency for Construction SMEs (2026–2027)</h3>
-    <div class="grant-amount">$549,886 <span>AEA $474,886 + industry $75,000</span></div>
-    <p>Developing an AI-powered safety assurance platform that automates SWMS compliance auditing and generates dynamic safety checklists. The project advances a construction-specific LLM and Proactive Safety Assurance Module from TRL 3 to TRL 5.</p>
-    <div class="small"><a href="https://www.aea.gov.au/news/australia-backs-new-wave-high-impact-research-over-725-million-aea-ignite-grants">Official AEA announcement</a></div>
-    <div class="impact-note">
-      <span class="pill pill-red">High-Impact Recognition</span>
-      <p>Selected as the featured project for Queensland in the Australian Government’s official announcement, which highlighted one representative initiative per state. The release specifically recognised this project’s capacity “to improve construction safety using AI compliance detection.”</p>
-    </div>
-  </article>
-  <article class="grant-card grant-card-wide">
-    <div class="grant-card-topline"><span>IG240100414 · AEA Ignite Round 1</span><span>Chief Investigator · Lead: Dr. Yanming Zhu</span></div>
-    <h3>Intelligent FCAS Agent for Renewable Energy Power Systems (2025–2026)</h3>
-    <div class="grant-amount">$508,442 <span>AEA $429,720 + industry $78,722</span></div>
-    <p>Analysing grid data and predicting frequency fluctuations to optimise power dispatch and battery storage in solar systems, with the goal of improving national-grid stability and supporting a TRL 5 commercialisation pathway.</p>
-  </article>
 </div>
 
 ## Other Competitive Funding
