@@ -109,13 +109,4 @@ He commenced his fully funded PhD in Computer Science at The University of Weste
       <span class="chip">Organizer</span>
     </div>
   </a>
-  <a class="showcase-card" href="/miscellaneous/" style="text-decoration:none;color:inherit;">
-    <h3>Miscellaneous</h3>
-    <p>Personal favorites and selected videos that reflect interests beyond academic work.</p>
-    <div class="chip-row">
-      <span class="chip">Favorites</span>
-      <span class="chip">Videos</span>
-      <span class="chip">Lifestyle</span>
-    </div>
-  </a>
 </div>
