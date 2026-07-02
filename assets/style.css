@@ -515,6 +515,46 @@ ul.news li::before{content:"•";position:absolute;left:0;color:var(--muted)}
   font-weight:800;
 }
 .grant-lead{max-width:78ch;color:#334155}
+.funding-breakdown{
+  margin-top:16px;
+  padding:15px;
+  border:1px solid rgba(14,116,144,.22);
+  border-radius:14px;
+  background:rgba(255,255,255,.72);
+}
+.funding-breakdown-head{
+  display:flex;
+  justify-content:space-between;
+  gap:12px;
+  margin-bottom:10px;
+  color:#0f172a;
+}
+.funding-breakdown-head span{color:#64748b;font-size:12px;font-weight:650}
+.funding-breakdown-grid{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:10px;
+}
+.funding-part{
+  display:grid;
+  gap:1px;
+  padding:11px 12px;
+  border:1px solid #d6e6e2;
+  border-radius:11px;
+  background:#fff;
+}
+.funding-part-label{color:#475569;font-size:12px;font-weight:700}
+.funding-part strong{color:#115e59;font-size:19px;line-height:1.25}
+.funding-part small{color:#64748b}
+.funding-total{
+  margin-top:10px;
+  padding:10px 12px;
+  border-radius:10px;
+  background:#e9f7f3;
+  color:#334155;
+  font-size:13px;
+}
+.funding-total b{color:#115e59}
 .grant-grid{
   display:grid;
   grid-template-columns:repeat(2,minmax(0,1fr));
@@ -544,6 +584,17 @@ ul.news li::before{content:"•";position:absolute;left:0;color:var(--muted)}
 .grant-card-wide{border-left:4px solid #2563eb}
 .grant-amount{margin:0 0 9px;color:#0f172a;font-size:20px;font-weight:800}
 .grant-amount span{color:#64748b;font-size:12px;font-weight:600}
+.impact-note{
+  display:grid;
+  justify-items:start;
+  gap:8px;
+  margin-top:14px;
+  padding:13px 14px;
+  border:1px solid #fecaca;
+  border-radius:12px;
+  background:#fff7f7;
+}
+.impact-note p{color:#7f1d1d}
 .funding-list{display:grid;gap:10px;margin:12px 0 20px}
 .funding-list>div{
   display:flex;
@@ -560,6 +611,8 @@ ul.news li::before{content:"•";position:absolute;left:0;color:var(--muted)}
   .grant-feature{padding:15px}
   .grant-feature-head{display:block}
   .grant-value{display:inline-block;margin-top:12px}
+  .funding-breakdown-head{display:grid}
+  .funding-breakdown-grid{grid-template-columns:1fr}
   .grant-grid{grid-template-columns:1fr}
   .grant-card-topline{display:grid}
   .funding-list>div{display:grid}

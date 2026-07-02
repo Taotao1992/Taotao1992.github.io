@@ -35,6 +35,15 @@ permalink: /grants-projects/
     <span class="grant-value">Up to $576,216</span>
   </div>
   <p class="grant-lead">The two awards support industry-embedded PhD researchers over four years and include tuition fee waivers. They strengthen a shared research program in safer construction, responsible AI, and advanced fire-retardant materials.</p>
+  <div class="funding-breakdown" aria-label="Funding composition for each National Industry PhD award">
+    <div class="funding-breakdown-head"><strong>Funding composition</strong><span>Per award, per year</span></div>
+    <div class="funding-breakdown-grid">
+      <div class="funding-part"><span class="funding-part-label">RTP Scholarship</span><strong>A$39,000</strong><small>plus tuition fee waiver</small></div>
+      <div class="funding-part"><span class="funding-part-label">Industry cash</span><strong>A$14,000</strong><small>industry contribution</small></div>
+      <div class="funding-part"><span class="funding-part-label">Government support</span><strong>A$19,027</strong><small>Australian Government</small></div>
+    </div>
+    <div class="funding-total"><strong>Across both four-year awards:</strong> combined value up to <b>A$576,216</b>, plus tuition fee waivers; external cash and project support totals up to <b>A$264,216</b>.</div>
+  </div>
   <div class="grant-grid">
     <article class="grant-card">
       <div class="grant-card-topline"><span>Application 42003</span><span>Lead Supervisor</span></div>
@@ -73,6 +82,10 @@ permalink: /grants-projects/
     <div class="grant-amount">$549,886 <span>AEA $474,886 + industry $75,000</span></div>
     <p>Developing an AI-powered safety assurance platform that automates SWMS compliance auditing and generates dynamic safety checklists. The project advances a construction-specific LLM and Proactive Safety Assurance Module from TRL 3 to TRL 5.</p>
     <div class="small"><a href="https://www.aea.gov.au/news/australia-backs-new-wave-high-impact-research-over-725-million-aea-ignite-grants">Official AEA announcement</a></div>
+    <div class="impact-note">
+      <span class="pill pill-red">High-Impact Recognition</span>
+      <p>Selected as the featured project for Queensland in the Australian Government’s official announcement, which highlighted one representative initiative per state. The release specifically recognised this project’s capacity “to improve construction safety using AI compliance detection.”</p>
+    </div>
   </article>
   <article class="grant-card grant-card-wide">
     <div class="grant-card-topline"><span>IG240100414 · AEA Ignite Round 1</span><span>Chief Investigator · Lead: Dr. Yanming Zhu</span></div>
