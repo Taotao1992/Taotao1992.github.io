@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ site.description }}" />
+    <link rel="icon" href="{{ "/assets/img/avatar-cartoon.jpg" | relative_url }}" />
     <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}" />
   </head>
   <body>
@@ -17,6 +18,7 @@
         <nav>
           <a class="{% if page.url == '/' %}active{% endif %}" href="{{ "/" | relative_url }}">Home</a>
           <a class="{% if page.url contains '/news/' %}active{% endif %}" href="{{ "/news/" | relative_url }}">News</a>
+          <a class="{% if page.url contains '/grants-projects/' %}active{% endif %}" href="{{ "/grants-projects/" | relative_url }}">Grants</a>
           <a class="{% if page.url contains '/publications/' %}active{% endif %}" href="{{ "/publications/" | relative_url }}">Publications</a>
           <a class="{% if page.url contains '/teaching-supervision/' %}active{% endif %}" href="{{ "/teaching-supervision/" | relative_url }}">Teaching</a>
           <a class="{% if page.url contains '/professional-activities/' %}active{% endif %}" href="{{ "/professional-activities/" | relative_url }}">Service</a>

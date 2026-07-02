@@ -21,6 +21,7 @@ permalink: /news/
   <div class="showcase-card">
     <h3>Recent Highlights</h3>
     <ul class="timeline">
+      <li>Two National Industry PhD Program Round 7 awards (2026–2030)</li>
       <li>AEA Ignite Round 2 Lead CI project funded (IG250200014, AUD 549,886)</li>
       <li>Paper selected for Information Systems 50th Anniversary influential list</li>
       <li>Multiple top-tier accepts in IEEE TSC, IEEE TGRS, and CORE A* venues</li>
@@ -34,6 +35,8 @@ permalink: /news/
 </div>
 
 ## Archive
+
+[07/2026] Awarded two Industry Linked PhD places in Round 7 of the Australian Government’s National Industry PhD Program, both with YJ Building Evolution Pty Ltd. I will serve as Lead Supervisor for <em>Construction Safety Compliance and Risk Mitigation Using Large Language Models</em> and as Co-Supervisor (Lead: Prof. Pingan Song) for <em>AI-Enabled Discovery of High-Performance Fire-Retardant Materials</em>. The two awards have a combined value of up to $576,216 over four years, plus tuition fee waivers. <a class="inline-link" href="/grants-projects/">Project details</a> <a class="inline-link" href="https://www.education.gov.au/national-industry-phd-program/announcements/national-industry-phd-program-round-7-outcomes-announced">Official announcement</a>
 
 [06/2026] One paper accepted by ECCV 2026. (CCF-B, CORE A*)
 

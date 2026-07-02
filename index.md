@@ -21,15 +21,15 @@ title: Home
         <span class="hero-pill">LLM Agents</span>
         <span class="hero-pill">Industry Collaboration</span>
       </div>
-      <div class="card list-tight hero-contact">
-        <strong>Contact &amp; Links</strong>
-        <ul>
-          <li>Email: <a href="mailto:taotao.cai@unisq.edu.au">taotao.cai@unisq.edu.au</a></li>
-          <li>Google Scholar: <a href="https://scholar.google.com/citations?user=fVUvY0QAAAAJ&amp;hl=zh-CN">https://scholar.google.com/citations?user=fVUvY0QAAAAJ</a></li>
-          <li>UniSQ profile: <a href="https://staffprofile.unisq.edu.au/Profile/Taotao-Cai">https://staffprofile.unisq.edu.au/Profile/Taotao-Cai</a></li>
-          <li>LinkedIn: <a href="https://www.linkedin.com/in/taotao-cai-24a328140/">https://www.linkedin.com/in/taotao-cai-24a328140/</a></li>
-        </ul>
-      </div>
+    </div>
+    <div class="card list-tight hero-contact">
+      <strong>Contact &amp; Links</strong>
+      <ul>
+        <li>Email: <a href="mailto:taotao.cai@unisq.edu.au">taotao.cai@unisq.edu.au</a></li>
+        <li>Google Scholar: <a href="https://scholar.google.com/citations?user=fVUvY0QAAAAJ&amp;hl=zh-CN">https://scholar.google.com/citations?user=fVUvY0QAAAAJ</a></li>
+        <li>UniSQ profile: <a href="https://staffprofile.unisq.edu.au/Profile/Taotao-Cai">https://staffprofile.unisq.edu.au/Profile/Taotao-Cai</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/taotao-cai-24a328140/">https://www.linkedin.com/in/taotao-cai-24a328140/</a></li>
+      </ul>
     </div>
   </div>
 </div>
@@ -47,41 +47,13 @@ He commenced his fully funded PhD in Computer Science at The University of Weste
 - **Self-improving LLM agents** (provenance, reliability, on-device)
 - **AI for industrial and sustainable systems** (construction, energy, transport)
 
-## Grants & Key Projects
-
-<div class="card">
-  <strong>IG250200014 — SafeBuild AI: Intelligent Safety and Efficiency for Construction SMEs (2026–2027)</strong><br/>
-  <span class="small">Role: Lead Chief Investigator (Lead CI) · Funding: AEA Ignite Round 2 · Amount: $549,886 (AEA $474,886 + Industry $75,000)</span>
-  <p>
-    This project aims to develop an AI-powered safety assurance platform to reduce incidents and ease administrative burdens in Australian construction.
-    We will create a lightweight, domain-specific LLM with <em>construction-savvy reasoning</em> using partner data.
-    The key deliverable is a <strong>TRL 5 Proactive Safety Assurance Module</strong>, validated in the partner’s environment, that automates SWMS compliance auditing and generates dynamic safety checklists.
-    Advancing the technology from TRL 3 to TRL 5 provides a clear commercialisation pathway for construction SMEs.
-  </p>
-  <div class="small">
-    Official announcement: <a href="https://www.aea.gov.au/news/australia-backs-new-wave-high-impact-research-over-725-million-aea-ignite-grants">AEA Ignite news</a>
-  </div>
-  <div class="small">
-    <strong>High-Impact Recognition:</strong> Selected as the featured project for Queensland in the Australian Government’s official announcement (<span class="pill pill-red">only one representative initiative per state</span>). The release specifically highlighted this project’s capacity “to improve construction safety using AI compliance detection.”
-  </div>
-</div>
-
-<div class="card">
-  <strong>IG240100414 — Intelligent FCAS Agent for Renewable Energy Power Systems (2025–2026)</strong><br/>
-  <span class="small">Role: Chief Investigator (CI) (Lead: Dr. Yanming Zhu, Griffith University) · Funding: AEA Ignite Round 1 · Amount: $508,442 (AEA $429,720 + Industry $78,722)</span>
-  <p>
-    The goal is to analyse grid data and predict grid frequency fluctuations to optimise power dispatch and battery storage in solar power systems, enabling efficient intelligent energy management.
-    This reduces power supply costs and enhances the stability and efficiency of the national grid.
-    Building on the team’s TRL 3 techniques, the project targets a semi-integrated system and aims to reach <strong>TRL 5</strong> to support commercialisation.
-  </p>
-</div>
-
-- **[2025] Pilot Research Support Scheme (UniSQ ECR Funding)** — $10,000
-- **[2024] Fake News Detection Research (UniSQ Collaboration Grants)** — $4,000
-
 ## News (recent)
 
 <ul class="news">
+  <li><strong>[07/2026]</strong> Awarded two Industry Linked PhD places in Round 7 of the Australian Government’s National Industry PhD Program: Lead Supervisor for an LLM-enabled construction safety project, and Co-Supervisor for AI-enabled fire-retardant materials discovery.<br/>
+    <span class="small">Combined value: up to $576,216 over four years, plus tuition fee waivers. <a href="/grants-projects/">Project details</a> · <a href="https://www.education.gov.au/national-industry-phd-program/announcements/national-industry-phd-program-round-7-outcomes-announced">Official announcement</a></span>
+  </li>
+  <li><strong>[06/2026]</strong> One paper accepted by ECCV 2026 (CORE A*, CCF-B).</li>
   <li><strong>[02/2026]</strong> One paper accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS) (SCI Q1, Top-tier). Congratulations to Penghui!</li>
   <li><strong>[01/2026]</strong> AEA Ignite Round 2 project (Lead CI, IG250200014) officially announced as funded (AEA $474,886 + Industry $75,000).<br/>
     <span class="small">Official announcement: <a href="https://www.aea.gov.au/news/australia-backs-new-wave-high-impact-research-over-725-million-aea-ignite-grants">AEA Ignite news</a></span>
@@ -117,6 +89,15 @@ He commenced his fully funded PhD in Computer Science at The University of Weste
       <span class="chip">Courses</span>
       <span class="chip">Mentoring</span>
       <span class="chip">UniSQ</span>
+    </div>
+  </a>
+  <a class="showcase-card" href="/grants-projects/" style="text-decoration:none;color:inherit;">
+    <h3>Grants &amp; Key Projects</h3>
+    <p>Industry-linked PhD awards and translational AI projects spanning construction, materials, and renewable energy.</p>
+    <div class="chip-row">
+      <span class="chip">Industry PhD</span>
+      <span class="chip">AEA Ignite</span>
+      <span class="chip">Translation</span>
     </div>
   </a>
   <a class="showcase-card" href="/professional-activities/" style="text-decoration:none;color:inherit;">
