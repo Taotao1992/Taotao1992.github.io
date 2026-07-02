@@ -56,7 +56,7 @@ permalink: /grants-projects/
     </div>
     <span class="grant-value">Up to $576,216</span>
   </div>
-  <p class="grant-lead">The two awards support industry-embedded PhD researchers over four years and include tuition fee waivers. They strengthen a shared research program in safer construction, responsible AI, and advanced fire-retardant materials.</p>
+  <p class="grant-lead">Each four-year award combines an RTP Scholarship and tuition fee waiver, an industry cash contribution, and Australian Government support, embedding industry-funded PhD researchers in a shared program spanning safer construction, responsible AI, and advanced fire-retardant materials.</p>
   <div class="funding-breakdown" aria-label="Funding composition for each National Industry PhD award">
     <div class="funding-breakdown-head"><strong>Funding composition</strong><span>Per award, per year</span></div>
     <div class="funding-breakdown-grid">
