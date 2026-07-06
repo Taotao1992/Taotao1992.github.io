@@ -52,7 +52,7 @@ permalink: /grants-projects/
   <div class="grant-feature-head">
     <div>
       <span class="grant-label">Australian Government · Round 7 · Industry Linked PhD</span>
-      <h3>Two awards with YJ Building Evolution Pty Ltd</h3>
+      <h3>Two awards with YJ Building Evolution Pty Ltd (2026-2030)</h3>
     </div>
     <span class="grant-value">Up to $576,216</span>
   </div>
