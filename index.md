@@ -54,7 +54,7 @@ He commenced his fully funded PhD in Computer Science at The University of Weste
     <span class="small">Combined value: up to $576,216 over four years, plus tuition fee waivers. <a href="/grants-projects/">Project details</a> · <a href="https://www.education.gov.au/national-industry-phd-program/announcements/national-industry-phd-program-round-7-outcomes-announced">Official announcement</a></span>
   </li>
   <li><strong>[06/2026]</strong> One paper accepted by ECCV 2026 (CORE A*, CCF-B).</li>
-  <li><strong>[03/2026] One paper accepted by IEEE Transactions on Services Computing, 2026. (CCF-A, CORE A*).</li>
+  <li><strong>[03/2026]</strong> One paper accepted by IEEE Transactions on Services Computing, 2026. (CCF-A, CORE A*).</li>
   <li><strong>[02/2026]</strong> One paper accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS) (SCI Q1, Top-tier). Congratulations to Penghui!</li>
   <li><strong>[01/2026]</strong> AEA Ignite Round 2 project (Lead CI, IG250200014) officially announced as funded (AEA $474,886 + Industry $75,000).<br/>
     <span class="small">Official announcement: <a href="https://www.aea.gov.au/news/australia-backs-new-wave-high-impact-research-over-725-million-aea-ignite-grants">AEA Ignite news</a></span>
