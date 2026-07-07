@@ -12,6 +12,7 @@ permalink: /professional-activities/
   <div class="chip-row">
     <span class="chip">Associate Editor</span>
     <span class="chip">Meta Reviewer</span>
+    <span class="chip">Local Chair</span>
     <span class="chip">Program Committee</span>
     <span class="chip">Special Issue Organizer</span>
   </div>
@@ -49,6 +50,7 @@ permalink: /professional-activities/
 ## Organized Conference & Special Sessions
 
 <ul class="timeline">
+  <li>Local Chair, The 37th Australasian Database Conference (ADC 2026) <a class="inline-link" href="https://adc-conference.github.io/2026/organisation">View</a></li>
   <li>Guest Editor, Array: Special issue on Multi-modal learning and its applications in the open environment <a class="inline-link" href="https://www.sciencedirect.com/journal/array/about/call-for-papers">View</a></li>
   <li>Registration Management Chairs, ADMA 2024 <a class="inline-link" href="https://adma2024.github.io/organisation_committee.html">View</a></li>
   <li>Workshop Co-Chair, IEEE DSC 2023 <a class="inline-link" href="http://ieeedsc.org/2023/">View</a></li>
