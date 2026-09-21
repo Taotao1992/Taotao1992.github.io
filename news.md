@@ -37,6 +37,8 @@ permalink: /news/
 
 ## Archive
 
+[09/2025] One paper accepted by TMLR.
+
 [07/2026] Serving as Local Chair for The 37th Australasian Database Conference (ADC 2026), listed on the official organising committee. <a class="inline-link" href="https://adc-conference.github.io/2026/organisation">Official page</a>
 
 [07/2026] Awarded two Industry Linked PhD places in Round 7 of the Australian Government’s National Industry PhD Program, both with YJ Building Evolution Pty Ltd. I will serve as Lead Supervisor for <em>Construction Safety Compliance and Risk Mitigation Using Large Language Models</em> and as Co-Supervisor (Lead: Prof. Pingan Song) for <em>AI-Enabled Discovery of High-Performance Fire-Retardant Materials</em>. The two awards have a combined value of up to $576,216 over four years, plus tuition fee waivers. <a class="inline-link" href="/grants-projects/">Project details</a> <a class="inline-link" href="https://www.education.gov.au/national-industry-phd-program/announcements/national-industry-phd-program-round-7-outcomes-announced">Official announcement</a>
