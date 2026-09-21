@@ -22,31 +22,40 @@ permalink: /publications/
 <h2 class="pub-year">2026</h2>
 <ul class="pub-list">
   <li class="pub">
+    <span class="authors">Yiqi Wang, Jiaqi Zhang, Zhangkai Wu, <strong>Taotao Cai</strong>, Zirui Liu, Zequn Sun, Mingkai Zheng, Manqing Dong, Yu-Xuan Qiu, Xuefei Yin, Yanming Zhu.</span>
+    <span class="title">From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents.</span>
+    <span class="venue">Transactions on Machine Learning Research (TMLR), 2026.</span>
+  </li>
+
+  <li class="pub">
     <span class="authors">Zengjie Chen, Yuxiang Cai, Jingcai Guo, <strong>Taotao Cai</strong>, Jianwei Yin, Zhi Chen.</span>
     <span class="title">Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction.</span>
     <span class="venue">ECCV 2026 (CORE A*, CCF-B).</span>
   </li>
+
   <li class="pub">
     <span class="authors">Pooya Jafari, Guoping Zhu, Zongmin Zhu, Mark Lynch, <strong>Taotao Cai</strong>, Siqi Huo, Jianping Ren, Guobo Huang, Pingan Song.</span>
     <span class="title">AI-aided De Novo Molecular Design of Phosphamide for Fire-Retardant Polylactide with Enhanced Integrated Properties.</span>
     <span class="venue">Polymer Degradation and Stability, 250:112138, 2026. <a class="inline-link" href="https://doi.org/10.1016/j.polymdegradstab.2026.112138">DOI</a></span>
   </li>
+
   <li class="pub">
     <span class="authors">Penghui Niu, Jiashuai She, <strong>Taotao Cai</strong>, Yajuan Zhang, Ping Zhang, Junhua Gu, Jianxin Li.</span>
-    <span class="title">MPCM-Net: A multi-scale network that integrates partial attention convolution with Mamba for ground-based cloud image segmentation.</span>
+    <span class="title">MPCM-Net: A Multi-Scale Network that Integrates Partial Attention Convolution with Mamba for Ground-Based Cloud Image Segmentation.</span>
     <span class="venue">IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026 (Top-tier journal in Remote Sensing).</span>
   </li>
+
   <li class="pub">
     <span class="authors">Mingyi Liu, Zijie Yin, Congcong Tian, Shuang Yu, <strong>Taotao Cai</strong>, Zhihui Xu, Zhongjie Wang.</span>
-    <span class="title"> MARS: A Multi-Agent Collaborative Reasoning Framework for Service Recommendation.</span>
-    <span class="venue"> IEEE Transactions on Services Computing （IEEE TSC）, 2026 (CORE A*, CCF-A, JCR-Q1, IF=5.8).</span>
+    <span class="title">MARS: A Multi-Agent Collaborative Reasoning Framework for Service Recommendation.</span>
+    <span class="venue">IEEE Transactions on Services Computing (IEEE TSC), 2026 (CORE A*, CCF-A, JCR-Q1, IF=5.8).</span>
   </li>
-  <li class="pub">
-  <span class="authors">Shuang Wang, He Zhang, Xiaoping Li, <strong>Taotao Cai</strong>, Michael Sheng, Jixiang Lu.</span>
-  <span class="title">Truth Discovery From Multiple Dependent Sources.</span>
-  <span class="venue">IEEE Transactions on Computational Social Systems (IEEE TCSS), 2026.</span>
-</li>
 
+  <li class="pub">
+    <span class="authors">Shuang Wang, He Zhang, Xiaoping Li, <strong>Taotao Cai</strong>, Michael Sheng, Jixiang Lu.</span>
+    <span class="title">Truth Discovery From Multiple Dependent Sources.</span>
+    <span class="venue">IEEE Transactions on Computational Social Systems (IEEE TCSS), 2026.</span>
+  </li>
 <li class="pub">
   <span class="authors">Aditya P. Kamath, Xiaohui Tao, <strong>Taotao Cai</strong>, Prabal Datta Barua, Sreeni Chadalavada, Abdulkadir Sengur.</span>
   <span class="title">Explainable pain level classification using a natural visibility graph-driven adaptive dilated recurrent unit with speech signals.</span>
