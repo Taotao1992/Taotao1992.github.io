@@ -99,48 +99,68 @@
 
     {% if page.url contains '/publications' %}
     <script>
-      // Bold author name in both formats: "Taotao Cai" and "Cai, Taotao".
       (function () {
-        // 1) Bold author name in both formats.
-        const targets = document.querySelectorAll('.authors');
-        for (const el of targets) {
+        // 1) Highlight the site owner in author lists (both "Taotao Cai" and "Cai, Taotao").
+        const authorEls = document.querySelectorAll('.pub-authors');
+        for (const el of authorEls) {
           let html = el.innerHTML;
-          // protect already-bolded occurrences
           html = html.replaceAll('<strong>Taotao Cai</strong>', '%%BOLD_TAOTAO_CAI%%');
           html = html.replaceAll('<strong>Cai, Taotao</strong>', '%%BOLD_CAI_TAOTAO%%');
-
-          // replace remaining plain occurrences
           html = html.replaceAll('Taotao Cai', '<strong>Taotao Cai</strong>');
           html = html.replaceAll('Cai, Taotao', '<strong>Cai, Taotao</strong>');
-
-          // restore protected
           html = html.replaceAll('%%BOLD_TAOTAO_CAI%%', '<strong>Taotao Cai</strong>');
           html = html.replaceAll('%%BOLD_CAI_TAOTAO%%', '<strong>Cai, Taotao</strong>');
-
           el.innerHTML = html;
         }
 
-        // 2) Highlight CORE/CCF tags inside venue text.
-        // Handle both standalone "(CCF-A)" and mixed lists like "(ERA A*, CCF-A, JCR-Q1, ...)".
-        const venueEls = document.querySelectorAll('.venue');
-        for (const el of venueEls) {
-          let html = el.innerHTML;
+        // 2) Year tabs + full-text search across all publications.
+        const root = document.querySelector('.pubs');
+        if (!root) return;
+        const tabs = Array.from(root.querySelectorAll('.pubs-year-btn'));
+        const sections = Array.from(root.querySelectorAll('.pub-year-section'));
+        const cards = Array.from(root.querySelectorAll('.pub-card'));
+        const status = root.querySelector('.pubs-status');
+        const input = document.getElementById('pubs-search-input');
+        let activeYears = null; // null = all years
 
-          // CORE ... (e.g., CORE A*, CORE2018 A*)
-          // Avoid word-boundary bugs that drop the trailing "*".
-          html = html.replace(/\bCORE\s*(\d{4})?\s*[-\s]*([A-C])\s*(\*)?/gi, function (m, year, grade, star) {
-            const y = year ? year : '';
-            const s = star ? '*' : '';
-            return '<span class="badge core">CORE' + y + ' ' + grade.toUpperCase() + s + '</span>';
-          });
-
-          // CCF-A/B/C (accept: CCF-A, CCF A)
-          html = html.replace(/\bCCF\s*[-\s]*([ABC])\b/gi, function (m, grade) {
-            return '<span class="badge ccf">CCF-' + grade.toUpperCase() + '</span>';
-          });
-
-          el.innerHTML = html;
+        function applyFilter() {
+          const query = (input && input.value.trim().toLowerCase()) || '';
+          root.classList.toggle('is-searching', query.length > 0);
+          let shown = 0;
+          for (const section of sections) {
+            const inActiveYear = !activeYears || activeYears.includes(section.dataset.year);
+            let sectionShown = 0;
+            for (const card of section.querySelectorAll('.pub-card')) {
+              const matchesQuery = !query || card.textContent.toLowerCase().includes(query);
+              // Search always scans every year; year tabs apply only when not searching.
+              const visible = query ? matchesQuery : inActiveYear;
+              card.hidden = !visible;
+              if (visible) sectionShown += 1;
+            }
+            section.hidden = sectionShown === 0;
+            shown += sectionShown;
+          }
+          if (status) {
+            status.textContent = query
+              ? 'Found ' + shown + ' of ' + cards.length + ' publications matching “' + input.value.trim() + '” across all years'
+              : 'Showing ' + shown + ' of ' + cards.length + ' publications';
+          }
         }
+
+        for (const tab of tabs) {
+          tab.addEventListener('click', function () {
+            for (const t of tabs) {
+              const active = t === tab;
+              t.classList.toggle('is-active', active);
+              t.setAttribute('aria-selected', active ? 'true' : 'false');
+            }
+            const year = tab.dataset.year;
+            activeYears = year === 'all' ? null : year.split(',');
+            applyFilter();
+          });
+        }
+        if (input) input.addEventListener('input', applyFilter);
+        applyFilter();
       })();
     </script>
       {% endif %}
