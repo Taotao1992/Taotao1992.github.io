@@ -90,8 +90,6 @@ permalink: /publications/
       <span class="pub-type-tag">Journal</span>
       <span class="badge core">CORE A*</span>
       <span class="badge ccf">CCF-A</span>
-      <span class="badge metric">JCR-Q1</span>
-      <span class="badge metric">IF=5.8</span>
     </div>
     <div class="pub-title">MARS: A Multi-Agent Collaborative Reasoning Framework for Service Recommendation</div>
     <div class="pub-authors">Mingyi Liu, Zijie Yin, Congcong Tian, Shuang Yu, Taotao Cai, Zhihui Xu, Zhongjie Wang</div>
@@ -139,7 +137,6 @@ permalink: /publications/
     <div class="pub-card-top">
       <span class="pub-venue-tag">JSTARS</span>
       <span class="pub-type-tag">Journal</span>
-      <span class="badge metric">SCI Q1</span>
     </div>
     <div class="pub-title">LG-Umer: A UNet-like Network Integrating Local-Global Features with a Novel Attention Mechanism for Road Extraction from Remote Sensing Images</div>
     <div class="pub-authors">Penghui Niu, Taotao Cai, Yajuan Zhang, Ping Zhang, Wenjia Xu, Junhua Gu, Jungong Han</div>
@@ -183,8 +180,6 @@ permalink: /publications/
       <span class="pub-venue-tag">KBS</span>
       <span class="pub-type-tag">Journal</span>
       <span class="badge metric">ERA B</span>
-      <span class="badge metric">JCR-Q1</span>
-      <span class="badge metric">IF=7.6</span>
     </div>
     <div class="pub-title">HebCGNN: Hebbian-enabled Causal Classification Integrating Dynamic Impact Valuing</div>
     <div class="pub-authors">Simi Job, Xiaohui Tao, Taotao Cai, Lin Li, Haoran Xie, Cai Xu, Jianming Yong</div>
@@ -216,7 +211,6 @@ permalink: /publications/
       <span class="pub-venue-tag">KBS</span>
       <span class="pub-type-tag">Journal</span>
       <span class="badge metric">ERA B</span>
-      <span class="badge metric">JCR-Q1</span>
     </div>
     <div class="pub-title">AI-Generated Content in Cross-Domain Applications: Research Trends, Challenges and Propositions</div>
     <div class="pub-authors">Jianxin Li, Liang Qu, Taotao Cai, Zhixue Zhao, Nur Al Hasan Haldar, Aneesh Krishna, Xiangjie Kong, Flavio Romero Macau, Tanmoy Chakraborty, Aniket Deroy, Binshan Lin, Karen Blackmore, Nasimul Noman, Jingxian Cheng, Ningning Cui, Jianliang Xu</div>
@@ -245,7 +239,6 @@ permalink: /publications/
     <div class="pub-card-top">
       <span class="pub-venue-tag">JSTARS</span>
       <span class="pub-type-tag">Journal</span>
-      <span class="badge metric">SCI Q1</span>
     </div>
     <div class="pub-title">MDCGA-Net: Multi-Scale Direction Context-Aware Network with Global Attention for Building Extraction from Remote Sensing Images</div>
     <div class="pub-authors">Penghui Niu, Junhua Gu, Yajuan Zhang, Ping Zhang, Taotao Cai, Wenjia Xu, Jungong Han</div>
@@ -258,8 +251,6 @@ permalink: /publications/
       <span class="pub-type-tag">Journal</span>
       <span class="badge core">CORE A*</span>
       <span class="badge ccf">CCF-A</span>
-      <span class="badge metric">JCR-Q1</span>
-      <span class="badge metric">IF=8.9</span>
     </div>
     <div class="pub-title">FRAMU: Attention-based Machine Unlearning using Federated Reinforcement Learning</div>
     <div class="pub-authors">Thanveer Shaik, Xiaohui Tao, Lin Li, Haoran Xie, Taotao Cai, Xiaofeng Zhu, Qing Li</div>
@@ -270,7 +261,6 @@ permalink: /publications/
     <div class="pub-card-top">
       <span class="pub-venue-tag">TBD</span>
       <span class="pub-type-tag">Journal</span>
-      <span class="badge metric">SCI Q1</span>
     </div>
     <div class="pub-title">A Survey on Truth Discovery: Concepts, Methods, Applications, and Opportunities</div>
     <div class="pub-authors">Shuang Wang, He Zhang, Quan Z Sheng, Xiaoping Li, Zhu Sun, Taotao Cai, Wei Emma Zhang, Jian Yang, Qing Gao</div>
@@ -290,8 +280,6 @@ permalink: /publications/
       <span class="pub-type-tag">Journal</span>
       <span class="badge core">CORE A*</span>
       <span class="badge ccf">CCF-A</span>
-      <span class="badge metric">JCR-Q1</span>
-      <span class="badge metric">IF=8.9</span>
     </div>
     <div class="pub-title">Reconnecting the Estranged Relationships: Optimizing the Influence Propagation in Evolving Networks</div>
     <div class="pub-authors">Taotao Cai, Qi Lei, Quan Z. Sheng, Ningning Cui, Shuiqiao Yang, Jian Yang, Wei Emma Zhang, Adnan Mahamood</div>
@@ -304,8 +292,6 @@ permalink: /publications/
       <span class="pub-type-tag">Journal</span>
       <span class="badge core">CORE A*</span>
       <span class="badge ccf">CCF-A</span>
-      <span class="badge metric">JCR-Q1</span>
-      <span class="badge metric">IF=8.9</span>
     </div>
     <div class="pub-title">Towards Multi-User, Secure, and Verifiable kNN Query in Cloud Database</div>
     <div class="pub-authors">Ningning Cui, Kang Qiao, Taotao Cai, Jianxin Li, Xiaochun Yang, Jie Cui, Hong Zhong</div>
@@ -359,8 +345,6 @@ permalink: /publications/
       <span class="pub-type-tag">Journal</span>
       <span class="badge core">CORE A*</span>
       <span class="badge ccf">CCF-A</span>
-      <span class="badge metric">JCR-Q1</span>
-      <span class="badge metric">IF=8.9</span>
     </div>
     <div class="pub-title">Incremental Graph Computation: Anchored Vertex Tracking in Dynamic Social Networks</div>
     <div class="pub-authors">Taotao Cai, Shuiqiao Yang, Jianxin Li, Quan Z. Sheng, Jian Yang, Xin Wang, Wei Emma Zhang, Longxiang Gao</div>
@@ -373,8 +357,6 @@ permalink: /publications/
       <span class="pub-type-tag">Journal</span>
       <span class="badge core">CORE A*</span>
       <span class="badge ccf">CCF-A</span>
-      <span class="badge metric">JCR-Q1</span>
-      <span class="badge metric">IF=8.9</span>
     </div>
     <div class="pub-title">Top-k Socio-Spatial Co-engaged Location Selection for Social Users</div>
     <div class="pub-authors">Nur Al Hasan Haldar, Jianxin Li, Mohammed Eunus Ali, Taotao Cai, Timos Sellis, Mark Reynolds</div>
@@ -386,8 +368,6 @@ permalink: /publications/
       <span class="pub-venue-tag">KBS</span>
       <span class="pub-type-tag">Journal</span>
       <span class="badge metric">ERA B</span>
-      <span class="badge metric">JCR-Q1</span>
-      <span class="badge metric">IF=8.139</span>
     </div>
     <div class="pub-title">A Survey on Deep Learning based Knowledge Tracing</div>
     <div class="pub-authors">Xiangyu Song, Jianxin Li, Taotao Cai, Shuiqiao Yang, Tingting Yang, Chenfei Liu</div>
@@ -399,8 +379,6 @@ permalink: /publications/
       <span class="pub-venue-tag">KBS</span>
       <span class="pub-type-tag">Journal</span>
       <span class="badge metric">ERA B</span>
-      <span class="badge metric">JCR-Q1</span>
-      <span class="badge metric">IF=8.139</span>
     </div>
     <div class="pub-title">Robust Cross-Network Node Classification via Constrained Graph Mutual Information</div>
     <div class="pub-authors">Shuiqiao Yang, Borui Cai, Taotao Cai, Xiangyu Song, Jiaojiao Jiang, Bing Li, Jianxin Li</div>
@@ -430,8 +408,6 @@ permalink: /publications/
       <span class="pub-type-tag">Journal</span>
       <span class="badge core">ERA A*</span>
       <span class="badge ccf">CCF-A</span>
-      <span class="badge metric">JCR-Q1</span>
-      <span class="badge metric">IF=8.9</span>
     </div>
     <div class="pub-title">Target-aware Holistic Influence Maximization in Spatial Social Networks</div>
     <div class="pub-authors">Taotao Cai, Jianxin Li, Ajmal Mian, Rong-Hua Li, Timos Sellis, Jeffrey Xu Yu</div>
@@ -443,8 +419,6 @@ permalink: /publications/
       <span class="pub-venue-tag">Inf. Syst.</span>
       <span class="pub-type-tag">Journal</span>
       <span class="badge core">CORE A*</span>
-      <span class="badge metric">JCR-Q1</span>
-      <span class="badge metric">IF=2.551</span>
     </div>
     <div class="pub-title">Community-diversity Driven Influence Maximization on Social Networks</div>
     <div class="pub-authors">Jianxin Li, Taotao Cai, Xinjue Wang, Ke Deng, Timos Sellis, Jeffrey Xu Yu</div>
@@ -468,8 +442,6 @@ permalink: /publications/
     <div class="pub-card-top">
       <span class="pub-venue-tag">JCIN</span>
       <span class="pub-type-tag">Journal</span>
-      <span class="badge metric">JCR-Q1</span>
-      <span class="badge metric">IF=3.24</span>
     </div>
     <div class="pub-title">Anchor Vertex Selection for Enhanced Reliability of Traffic Offloading Service in Edge-Enabled Mobile P2P Social Networks</div>
     <div class="pub-authors">Hengda Zhang, Xiaofei Wang, Hao Fan, Taotao Cai, Jianxin Li, Xiuhua Li, Victor C. M. Leung</div>
@@ -525,8 +497,6 @@ permalink: /publications/
       <span class="pub-venue-tag">WWWJ</span>
       <span class="pub-type-tag">Journal</span>
       <span class="badge metric">ERA A</span>
-      <span class="badge metric">JCR-Q2</span>
-      <span class="badge metric">IF=1.770</span>
     </div>
     <div class="pub-title">Efficient Distance-based Representative Skyline Computation in 2D Space</div>
     <div class="pub-authors">Rui Mao, Taotao Cai, Ronghua Li, Jeffrey Xu Yu, Jianxin Li</div>
