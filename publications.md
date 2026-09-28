@@ -28,7 +28,7 @@ permalink: /publications/
       <button class="pubs-year-btn" type="button" role="tab" aria-selected="false" data-year="2024">2024 <span>4</span></button>
       <button class="pubs-year-btn" type="button" role="tab" aria-selected="false" data-year="2023">2023 <span>5</span></button>
       <button class="pubs-year-btn" type="button" role="tab" aria-selected="false" data-year="2022">2022 <span>5</span></button>
-      <button class="pubs-year-btn" type="button" role="tab" aria-selected="false" data-year="2015,2017,2018,2019,2020">2015–2020 <span>8</span></button>
+      <button class="pubs-year-btn" type="button" role="tab" aria-selected="false" data-year="2015,2017,2018,2019,2020">Before 2022 <span>8</span></button>
     </div>
     <div class="pubs-search" role="search">
       <svg class="pubs-search-icon" width="14" height="14" viewBox="0 0 16 16" aria-hidden="true"><path d="M11.4 10.2a5 5 0 1 0-1.2 1.2l3.2 3.2a.85.85 0 0 0 1.2-1.2l-3.2-3.2zm-4.9.9a3.6 3.6 0 1 1 0-7.2 3.6 3.6 0 0 1 0 7.2z" fill="currentColor"/></svg>
