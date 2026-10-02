@@ -37,6 +37,8 @@ permalink: /news/
 
 ## Archive
 
+[10/2026] Delivered an invited talk for the IEEE WA Systems, Man, and Cybernetics (SMC) Chapter titled <em>From Agent Traces to Trustworthy Memory: Provenance, Governance, and Repair in LLM Agents</em>. <a class="inline-link" href="/assets/slides/ieee-wa-smc-2026-invited-talk.pdf" download>Download slides</a>
+
 [09/2025] One paper accepted by TMLR.
 
 [07/2026] Serving as Local Chair for The 37th Australasian Database Conference (ADC 2026), listed on the official organising committee. <a class="inline-link" href="https://adc-conference.github.io/2026/organisation">Official page</a>
