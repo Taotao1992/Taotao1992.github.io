@@ -79,8 +79,8 @@ He commenced his fully funded PhD in Computer Science at The University of Weste
 
 <div class="showcase-grid">
   <a class="showcase-card showcase-card-featured" href="https://taotao1992.github.io/ai-evolution-atlas/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:inherit;">
-    <h3>CSC2220 Artificial Intelligence</h3>
-    <p>An interactive atlas of AI history, agent systems, world models, landmark papers, and videos for students and curious visitors.</p>
+    <h3>AI Evolution Atlas</h3>
+    <p>An illustrated, interactive history of AI, with a learning path, landmark papers, and current research. Experimental course development · test edition.</p>
     <div class="chip-row">
       <span class="chip">AI timeline</span>
       <span class="chip">Papers</span>
