@@ -55,9 +55,7 @@ He commenced his fully funded PhD in Computer Science at The University of Weste
   <li><strong>[10/2026]</strong> Invited talk at the IEEE WA SMC Chapter: <em>From Agent Traces to Trustworthy Memory: Provenance, Governance, and Repair in LLM Agents</em>.<br/>
     <span class="small"><a href="/assets/slides/ieee-wa-smc-2026-invited-talk.pdf" download>Slides (PDF)</a></span>
   </li>
-  <li><strong>[09/2026]</strong> Our survey, <em>From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents</em>, has been accepted by <strong>Transactions on Machine Learning Research (TMLR)</strong>!<br/>
-    <span class="small">A unified view of evidence tracing and execution provenance, with a taxonomy and research agenda for trustworthy LLM agents. Congratulations to Yiqi and all our co-authors! <a class="inline-link" href="https://arxiv.org/abs/2606.04990">Paper</a> · <a class="inline-link" href="https://github.com/xiaoqi-7/Agent-Tracing-Survey">Survey resources</a></span>
-  </li>
+  <li><strong>[09/2026]</strong> Our survey, <em>From Agent Traces to Trust</em>, has been accepted by <strong>Transactions on Machine Learning Research (TMLR)</strong>. It reviews evidence tracing and execution provenance for trustworthy, auditable LLM agents. <a class="inline-link" href="https://arxiv.org/abs/2606.04990">Paper</a> · <a class="inline-link" href="https://github.com/xiaoqi-7/Agent-Tracing-Survey">Resources</a></li>
   <li><strong>[07/2026]</strong> Awarded two Industry Linked PhD places in Round 7 of the Australian Government’s National Industry PhD Program: Lead Supervisor for an LLM-enabled construction safety project, and Co-Supervisor for AI-enabled fire-retardant materials discovery.<br/>
     <span class="small">Combined value: up to $576,216 over four years, plus tuition fee waivers. <a href="/grants-projects/">Project details</a> · <a href="https://www.education.gov.au/national-industry-phd-program/announcements/national-industry-phd-program-round-7-outcomes-announced">Official announcement</a></span>
   </li>
