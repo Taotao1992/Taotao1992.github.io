@@ -23,8 +23,7 @@ permalink: /publications/
   <div class="pubs-toolbar">
     <div class="pubs-years" role="tablist" aria-label="Filter publications by year">
       <button class="pubs-year-btn is-active" type="button" role="tab" aria-selected="true" data-year="all">All <span>39</span></button>
-      <button class="pubs-year-btn" type="button" role="tab" aria-selected="false" data-year="2027">2027 <span>1</span></button>
-      <button class="pubs-year-btn" type="button" role="tab" aria-selected="false" data-year="2026">2026 <span>7</span></button>
+      <button class="pubs-year-btn" type="button" role="tab" aria-selected="false" data-year="2026">2026 <span>8</span></button>
       <button class="pubs-year-btn" type="button" role="tab" aria-selected="false" data-year="2025">2025 <span>9</span></button>
       <button class="pubs-year-btn" type="button" role="tab" aria-selected="false" data-year="2024">2024 <span>4</span></button>
       <button class="pubs-year-btn" type="button" role="tab" aria-selected="false" data-year="2023">2023 <span>5</span></button>
@@ -39,8 +38,8 @@ permalink: /publications/
   </div>
   <p class="pubs-status" aria-live="polite"></p>
 
-<section class="pub-year-section" data-year="2027">
-<h2 class="pub-year">2027</h2>
+<section class="pub-year-section" data-year="2026">
+<h2 class="pub-year">2026</h2>
 <div class="pub-cards">
 
   <article class="pub-card" id="wsdm-2027-provenance-memory">
@@ -53,13 +52,6 @@ permalink: /publications/
     <div class="pub-authors">Yiqi Wang, Jinqian Ju, Jiaqi Zhang, Zequn Sun, Yiqun Duan, Mingkai Zheng, Taotao Cai</div>
     <div class="pub-venue-full">ACM International Conference on Web Search and Data Mining (WSDM), Findings, 2027 · Accepted <a class="inline-link" href="https://arxiv.org/abs/2609.25913">arXiv</a> <a class="inline-link" href="https://arxiv.org/pdf/2609.25913">PDF</a></div>
   </article>
-
-</div>
-</section>
-
-<section class="pub-year-section" data-year="2026">
-<h2 class="pub-year">2026</h2>
-<div class="pub-cards">
 
   <article class="pub-card">
     <div class="pub-card-top">
