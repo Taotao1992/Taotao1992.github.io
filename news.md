@@ -21,6 +21,7 @@ permalink: /news/
   <div class="showcase-card">
     <h3>Recent Highlights</h3>
     <ul class="timeline">
+      <li>Our survey on evidence tracing and execution provenance in LLM agents accepted by <strong>TMLR</strong></li>
       <li>Paper accepted to <a href="https://arxiv.org/abs/2609.25913">WSDM 2027 Findings</a></li>
       <li>Two National Industry PhD Program Round 7 awards (2026–2030)</li>
       <li>Local Chair, ADC 2026: The 37th Australasian Database Conference</li>
@@ -42,7 +43,7 @@ permalink: /news/
 
 [10/2026] Delivered an invited talk for the IEEE WA Systems, Man, and Cybernetics (SMC) Chapter titled <em>From Agent Traces to Trustworthy Memory: Provenance, Governance, and Repair in LLM Agents</em>. <a class="inline-link" href="/assets/slides/ieee-wa-smc-2026-invited-talk.pdf" download>Download slides</a>
 
-[09/2025] One paper accepted by TMLR.
+[09/2026] Our survey, <em>From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents</em>, has been accepted by <strong>Transactions on Machine Learning Research (TMLR)</strong>! The work connects evidence attribution, tool-use safety, agent memory, and observability through a unified view of execution provenance. We introduce a six-dimensional taxonomy, review methods and evaluation benchmarks, and map out open challenges for tracing, auditing, and repairing LLM agent behaviour. Congratulations to Yiqi, and many thanks to all our co-authors for the hard work behind this survey! <a class="inline-link" href="https://arxiv.org/abs/2606.04990">Paper</a> · <a class="inline-link" href="https://github.com/xiaoqi-7/Agent-Tracing-Survey">Survey resources</a>
 
 [07/2026] Serving as Local Chair for The 37th Australasian Database Conference (ADC 2026), listed on the official organising committee. <a class="inline-link" href="https://adc-conference.github.io/2026/organisation">Official page</a>
 
