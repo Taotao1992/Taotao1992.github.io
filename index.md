@@ -51,6 +51,7 @@ He commenced his fully funded PhD in Computer Science at The University of Weste
 ## News (recent)
 
 <ul class="news">
+  <li><strong>[11/2026]</strong> Our paper, <em>When Does Execution Provenance Help Agent Memory Retrieval?</em>, has been accepted to <strong>WSDM 2027 Findings</strong>. <a class="inline-link" href="https://arxiv.org/abs/2609.25913">arXiv</a></li>
   <li><strong>[10/2026]</strong> Invited talk at the IEEE WA SMC Chapter: <em>From Agent Traces to Trustworthy Memory: Provenance, Governance, and Repair in LLM Agents</em>.<br/>
     <span class="small"><a href="/assets/slides/ieee-wa-smc-2026-invited-talk.pdf" download>Slides (PDF)</a></span>
   </li>

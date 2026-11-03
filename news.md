@@ -21,6 +21,7 @@ permalink: /news/
   <div class="showcase-card">
     <h3>Recent Highlights</h3>
     <ul class="timeline">
+      <li>Paper accepted to <a href="https://arxiv.org/abs/2609.25913">WSDM 2027 Findings</a></li>
       <li>Two National Industry PhD Program Round 7 awards (2026–2030)</li>
       <li>Local Chair, ADC 2026: The 37th Australasian Database Conference</li>
       <li>AEA Ignite Round 2 Lead CI project funded (IG250200014, AUD 549,886)</li>
@@ -36,6 +37,8 @@ permalink: /news/
 </div>
 
 ## Archive
+
+[11/2026] Our paper, <em>When Does Execution Provenance Help Agent Memory Retrieval?</em>, has been accepted to <strong>WSDM 2027 Findings</strong>. <a class="inline-link" href="https://arxiv.org/abs/2609.25913">arXiv</a>
 
 [10/2026] Delivered an invited talk for the IEEE WA Systems, Man, and Cybernetics (SMC) Chapter titled <em>From Agent Traces to Trustworthy Memory: Provenance, Governance, and Repair in LLM Agents</em>. <a class="inline-link" href="/assets/slides/ieee-wa-smc-2026-invited-talk.pdf" download>Download slides</a>
 
