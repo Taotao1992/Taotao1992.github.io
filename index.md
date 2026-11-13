@@ -16,10 +16,11 @@ title: Home
         now extending to provenance-aware LLM agents and graph-based industrial discovery.
       </p>
       <div class="hero-highlights">
-        <span class="hero-pill">Graph Learning</span>
-        <span class="hero-pill">Trustworthy AI</span>
-        <span class="hero-pill">LLM Agents</span>
-        <span class="hero-pill">Industry Collaboration</span>
+        <span class="hero-pill">Agent Memory</span>
+        <span class="hero-pill">Data Management</span>
+        <span class="hero-pill">Provenance &amp; Repair</span>
+        <span class="hero-pill">Action Verification</span>
+        <span class="hero-pill">Industry Translation</span>
       </div>
     </div>
     <div class="card list-tight hero-contact">
@@ -43,10 +44,10 @@ He commenced his fully funded PhD in Computer Science at The University of Weste
 
 ## Research Interests
 
-- **Graph learning for networked decision-making** (GNNs, influence, diffusion)
-- **Trustworthy AI for social and information ecosystems** (misinformation, robustness)
-- **Self-improving LLM agents** (provenance, reliability, on-device)
-- **AI for industrial and sustainable systems** (construction, energy, transport)
+- **Data management for trustworthy AI agents** (agent memory, transactional commit, provenance, action verification)
+- **Dynamic graph data and networked decision-making** (incremental computation, influence, diffusion)
+- **Trustworthy and verifiable information systems** (truth discovery, verifiable queries, robustness)
+- **AI for industrial and sustainable systems** (construction safety, energy, transport)
 
 ## News (recent)
 
